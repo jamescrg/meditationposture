@@ -1,0 +1,106 @@
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700);
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	background: #d4d4d4;
+	color: #474747;
+	}
+
+a {
+	text-decoration: no
+	color: #0059b3;
+	}
+
+a:hover	{
+	text-decoration: none;
+	color: green;
+	}
+
+.strong{
+	font-weight: bold;
+	}
+
+#title{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 30px;
+}
+
+div#content{
+}
+
+div#nav{
+}
+
+.col-sm-2, .col-sm-3, .col-sm4, .col-sm-8, .col-sm-9, .col-sm-10,.col-sm-11,.col-sm-12 {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.panel-background{
+	background: white;
+	padding: 20px;
+}
+
+h1 {
+	margin:0;
+    margin-bottom: 18px;
+	padding: 0;
+	font-size: 26px;
+}
+
+h2 {
+	margin:0;
+    margin-left: 3px;
+    margin-bottom: 18px;
+	padding: 0;
+	font-size: 22px;
+}
+
+h3 {
+	margin:0;
+	padding: 0;
+	font-size: 24px;
+}
+
+p{
+    margin-left: 5px;
+    margin-bottom: 18px;
+	font-size: 18px;
+	text-align: justify;
+}
+
+blockquote {
+    margin: 10px 30px;
+    border: none;
+	text-align: justify;
+}
+
+.list-group-item{
+	padding: 7px 0px;
+	font-size: 18px;
+	border: none;
+	background: white;
+}
+
+#top-nav-menu-item{
+	padding-top: 0px;
+}
+
+#bottom-nav-menu-item{
+	padding-bottom: 0px;
+}
+
+#nav ul {
+	padding: 0;
+	margin: 0;
+}
+
+#nav ul li a {
+	padding: 0;
+	margin: 0;
+}
+
+

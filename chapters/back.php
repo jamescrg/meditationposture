@@ -1,0 +1,14 @@
+<h1>The Lower Back</h1>
+
+<p>Regardless of how the legs are positioned, the most important element of meditation posture is forward pelvic tilt. vi vii viii ix x  The knees should be positioned a little below the hips, creating room for the pelvis to tilt forward.  This brings the belly out and forward and creates some natural, healthy arch in the lower back.  Without this forward pelvic tilt, comfort on a seat (without a back prop) is very difficult. </p>
+
+<p>The purpose of sitting on a cushion or other support during meditation is to achieve and maintain forward pelvic tilt.  By sitting on the front of the cushion, we position ourselves on an inclined plane or a wedge that holds the back of the pelvis higher than the front.  Some modern cushions are actually designed in a wedge shape to directly facilitate forward pelvic tilt. </p>
+
+<p>This is perhaps the little secret of sitting for long periods of time without a back prop.  In essence, the meditation cushion is back support.  By lifting the seat and propping the pelvis forward position, the cushion holds the lower spine in a lordotic (forward) curve.  When one is positioned correctly on a cushion, it actually becomes somewhat of a challenge to round the lower back.  This in turn supports the rest of the back and the shoulders.</p>
+
+<p>This is the reason why we are advised to sit on the forward portion of the cushion.  Sitting toward the back of the cushion would be counterproductive, because it would cause the lower back to round.  Sitting in the middle of the cushion raises the body off the floor, provides a soft surface, and makes room for the legs, but it doesn't support the lower back by pushing the pelvis forward.  It also has a tendency to tilt you forward, and to cause the back to “sway” or “overarch”, or to arch up too high toward the middle back.  Sitting toward the front of the cushion, on the other hand, brings the upper body upright and pushes the lumbar arch lower toward the tailbone.  This eliminates tension in the mid back and subtly brings the chest and head into better alignment over the hips. </p>
+
+<p>One last note about pelvic tilt: some posture coaches and writers will tell you to tilt your pelvis forward until your weight is over your “sitz bones”.  Personally, I have found this instruction, while not wrong, rather confusing.  The reason is because there is a fairly significant range of different positions that will place your weight over the bones of the lower pelvis, to one degree or another.  In addition, depending on the firmness and shape of the cushion, it may become difficult to perceive exactly whether your weight is over your sitz bones or not.  Finally, the sitz bones are connected to other pelvic bones, and it can be hard to distinguish between them, to know exactly where the pelvic bones should make contact.</p>
+
+<p>The forward pelvic tilt should be firm, but not forceful.</p>
+
