@@ -40,7 +40,7 @@
             <div class="col-sm-10">
 
                 <div class="panel-background">
-		    		<?php include 'chapters/' . $chapter . '.php'; ?>
+		    		<?php include 'views/chapters/' . $chapter . '.php'; ?>
                 </div>
 
             </div>
@@ -48,7 +48,7 @@
             <div class="col-sm-2" id="nav">
 
                 <div class="panel-background">
-					<?php include 'nav.php'; ?>
+					<?php include 'views/nav.php'; ?>
                 </div>
 
             </div>
