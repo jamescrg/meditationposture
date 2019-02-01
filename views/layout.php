@@ -40,7 +40,7 @@
             <div class="col-sm-10">
 
                 <div class="panel-background">
-		    		<?php include 'views/chapters/' . $chapter . '.php'; ?>
+		    		<?php include 'views/pages/' . $page . '.php'; ?>
                 </div>
 
             </div>
