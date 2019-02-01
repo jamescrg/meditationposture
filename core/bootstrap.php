@@ -15,7 +15,9 @@ require 'helpers.php';
 
 // load core application components
 
+require 'App.php';
+
 require 'Request.php';
 
-require 'core/Router.php';
+require 'Router.php';
 

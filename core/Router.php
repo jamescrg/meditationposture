@@ -5,13 +5,12 @@ class Router
 
     private $uri;
 
-    private $pages = array('about', 'why', 'comfort', 'start', 'legs',
-        'hands', 'back', 'chest', 'shoulders', 'head', 'conditioning', 'problems', 'faq',
-        'sources');
+    private $pages;
 
-    function __construct($uri)
+    function __construct($uri, $app)
     {
         $this->uri = $uri;
+        $this->pages = $app->pages;
     }
 
     public function direct()

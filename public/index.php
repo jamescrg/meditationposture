@@ -6,21 +6,26 @@
 require_once('../core/bootstrap.php');
 
 
-// obtain the user request
+// instantiate the App
+
+$app = new App;
+
+
+// obtain the user Request
 
 $request = new Request;
 
 $uri = $request->getUri();
 
 
-// route the request to the selected page
+// Route the request to the selected page
 
-$router = new Router($uri);
+$router = new Router($uri, $app);
 
 $page = $router->direct();
 
 
-// load the views
+// load the Page 
 
 require_once('views/layout.php');
 
