@@ -5,15 +5,15 @@
 	</li>
     
     <li class="list-group-item">
+		<a <?php highlight($page, 'start') ?> href="start">Quick Start</a>
+	</li>
+    
+    <li class="list-group-item">
 		<a <?php highlight($page, 'why') ?> href="why">Why Sit</a>
 	</li>
     
     <li class="list-group-item">
 		<a <?php highlight($page, 'comfort') ?> href="comfort">Comfort</a>
-	</li>
-    
-    <li class="list-group-item">
-		<a <?php highlight($page, 'start') ?> href="start">Quick Start</a>
 	</li>
     
     <li class="list-group-item">
@@ -41,7 +41,7 @@
 	</li>
     
     <li class="list-group-item">
-		<a <?php highlight($page, 'conditioning') ?> href="conditioning">Conditioning</a>
+		<a <?php highlight($page, 'exercises') ?> href="exercises">Exercises</a>
 	</li>
  
     <li class="list-group-item">

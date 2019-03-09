@@ -1,29 +1,71 @@
-<h1>Sources and Suggestions for Further Reading</h1>
+<h1>Suggestions for Further Reading</h1>
 
-<h2>Posture</h2>
+<ul class="sources">
 
-<p> “Pelvic anteversion is the foundation of a healthy human frame, affecting the placement of every other party of the body.”  Esther Gokhale, 8 Steps to a Pain Free Back (Pendo Press 2008) p. 20.</p>
+    <li class="sources">
 
-<p>See also, Kathleen Porter, Natural Posture for Pain Free Living (Healing Arts Press 2006).</p>
+    Bhante Henepola Gunaratana, <i>Mindfulness in Plain English</i> (Wisdom Publications 1994)
 
-<p>“[I]t is helpful to articulate some of the characteristics that constitute good posture . . The pelvis is tipped forward or anteverted . . . Pelvic anteversion is accompanied by a pronounced angle low in the spine (between the L5 and S1 vertebrae). . . .” Esther Gokhale, 8 Steps to a Pain Free Back (Pendo Press 2008) p. 18.</p>
+    </li>
 
-<p>Galen Krantz, The Chair: Rethinking Culture, Body, and Design (Norton 1998) pp. 27, 28.</p>
+    <li class="sources">
 
-<h2>Zen</h2>
+    Dogen, <i>Fukanzazengi</i> (Six Translations, Compiled by Frederic Lecut 2009)
 
-<p>Suzuki, Zen Mind, Beginner’s Mind (Shambhala 2006) p. 9.</p>
+    </li>
 
-<p>Robert Aitken, Taking the Path of Zen (North Point Press 1982) pp. 14-15.</p>
+    <li class="sources">
 
-<p>“Tilt your lower back forward just above the tail bone . . . it feels similar to pushing your bottom a bit backwards.” Shodo Harada, Zen - Posture - Introduction to Zen practice part 2/1 (Youtube.com 2010) 4:17.</p>
+    Esther Gokhale, <i>8 Steps to a Pain Free Back</i> (Pendo Press 2008)
 
-<h2>Yoga and Fitness</h2>
+    </li>
 
-<p>Pavel Tsatsouline, Relax Into Stretch: Instant Flexibility Through Mastering Muscle Tension (Advanced Fitness Solutions, Inc. 2001). </p>
+    <li class="sources">
+    
+    Georg Feuerstein, <i>The Path of Yoga: An Essential Guide to Its Principles and Practices</i> (Shambhala Publications 2011)
 
-<p>Georg Feuerstein, The Path of Yoga: An Essential Guide to Its Principles and Practices (Shambhala Publications 2011) p. 63.</p>
+    </li>
 
-<p>“Head is up, perhaps bent forward very slightly.  Chin is in. . . .”  Robert Aitken, Taking the Path of Zen (North Point Press 1982) p. 15.</p>
+    <li class="sources">
 
-<p>“When the head is aligned and relaxed, the eyes look straight ahead.” Will Johnson, The Posture of Meditation: A Practical Manual for Meditators of All Traditions (Shambhala 2012) p. 49.</p>
+    Galen Cranz, <i>The Chair: Rethinking Culture, Body, and Design</i> (Norton 1998)
+
+    </li>
+
+    <li class="sources">
+
+    Kathleen Porter, <i>Natural Posture for Pain Free Living</i> (Healing Arts Press 2006)
+
+    </li>
+
+    <li class="sources">
+
+    Omori Sogen, <i>An Introduction to Zen Training</i> (Tuttle Publishing 1996)
+
+    </li>
+
+    <li class="sources">
+
+    Philip Kapleau, <i>The Three Pillars of Zen</i> (Anchor Books 1965)
+
+    </li>
+
+    <li class="sources">
+
+    Robert Aitken, <i>Taking the Path of Zen</i> (North Point Press 1982)
+
+    </li>
+
+    <li class="sources">
+
+    Shunryu Suzuki, <i>iZen Mind, Beginner's Mind</i> (Shambhala 2011)
+
+    </li>
+
+    <li class="sources">
+
+    Will Johnson, <i>The Posture of Meditation: A Practical Manual for Meditators of All Traditions</i> (Shambhala 2012)
+
+    </li>
+
+</ul>

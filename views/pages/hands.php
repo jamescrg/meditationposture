@@ -1,19 +1,38 @@
 <h1>Hand and Arm Placement</h1>
 
-<p>The arms should hang as close to the body as possible.  The more the arms move away from the torso, the more they place a strain on the muscles of the back.  </p>
+<h2>Three Options</h2>
 
-<p>There are many different way of positioning the arms.  I'll suggest three of them here.  First, you can place your hands in a “mudra” position in your the lap.  Second, you can  place the hands on the middle of the thighs.  Third, you can hold the hands in a mudra position at or about your navel.  </p>
+<p>The hands should be positioned to allow the arms to hang as close to the body as possible. The more the arms move away from the torso, the more they place a strain on the muscles of the back. In light of this principle, there there are three main ways of positioning the hands: on the thighs, in the lap, or at the navel.</p>
 
-<p>For those who are unfamiliar, the term “mudra” is Sanskrit for “gesture”.  It simply refers to a position of the hands.  Traditionally, in Hinduism and Buddhism the hands were placed in a position with symbolic significance.  </p>
+<h2>On the Thighs</h2>
 
-<p>Probably the most common mudra today is colloquially called the “cosmic mudra”.  You can form the cosmic mudra by placing either hand in your lap facing upward.  Then place the other hand on top of it, also facing upward.  Tough the tips of your thumbs together to form a gentle oval. </p>
+<p>Most beginning practitioners will find that placing the hands on the thighs feels like the most natural and comfortable option. However, in time many find that placing the hands on the thighs tends to be a little uncomfortable. This is because my hands always feel like they are either too close or too far away. If the hands are placed are too close, it is easy to end up resting some of my weight of the torso on the hands, which can cause cramping in my shoulders. It is easy to fall into this habit without even noticing it.</p>
 
-<p>It turns out that cosmic mudra is a very comfortable position for the hands over long periods of time, which is probably a key reason for its popularity.  In addition, because the thumbs rest very lightly against one another, this mudra can be a useful indicator of the quality of your posture.  If you find yourself off balance or starting slumping, the first sign of trouble may be a loss of tone or integrity in the shape of the mudra.</p>
+<p>On the other hand, if the hands are are too far away, the weight of my arms tends to pull the shoulders down and forward, again causing cramping in the shoulders. However, these observations are based mainly on my own personal experience, and on the comments of some experienced mediation teachers. You may find that resting your hands on your thights works perfect well for you. Nevertheless, the most common practice among experiended practitioners is to rest the hands in the lap.</p>
 
-<p>Nevertheless, if you the cosmic mudra annoying, you can just lay your hands in your lap, facing up, with one on top of the other.  Or you can just call it “making an oval”.  In this guide, our only concern is with getting comfortable.</p
-<p>I personally prefer to hold my hands just below my belly button in the shape of the cosmic mudra.  I have a fairly long torso and find that laying my hands in my lap pulls my shoulders forward and out of the ideal alignment.  It may seem strange at first to hold the hands in the air unsupported, but there is surprisingly little effort involved.  The biceps can support the weight of the forearms and hands with no difficulty.  And, because the arms are close to the body, there is almost no extra load or strain on the back.  Moreover, because I usually sit in half-lotus, when my hands are in my lap, they are resting on my heel, which is an uneven surface, and thus my hands have a tendency to slide in one direction or another.  Simply holding my hands at my navel keeps my shoulders in line and eliminates the distraction of feeling my hands slide away.</p>
+<p><b>picture</b></p>
 
-<p>I also find that placing the hands on the thighs tends to be a little uncomfortable.  This is because my hands always feel like they are either too close or too far away.  If they are too close, I end up resting some of my weight on the hands can cause cramping in my shoulders.  If they are too far away, the weight of my arms tends to pull my shoulders down and forward, again causing cramping in the shoulders.  However, I know of many people who are quite comfortable resting their hands on their thighs.</p>
+<h2>In the Lap</h2>
 
-<p>One other item of note: the higher the cushion, the more difficult it will be to rest the hands on the lap.  The lower the cushion, the easier.  On lower cushions, the angle of the legs and torso is closer to ninety degrees, and the hands can settle into the creases of the hip.  For this reason, it is easier to hold the hands in the lap when sitting in, for example, full lotus, as compared with, for another example, the Burmese position.</p>
+<p>Resting the hands in the lap positions the arms close to the body and allows the arms to hang naturally with minimal effort. This prevents all kinds of potential problems with cramping and discomfort in the upper and mid back.</p>
+
+<p><b>picture</b></p>
+
+<h2>At the Navel</h2>
+
+<p>For a long time, I preferred to prefer to hold my hands just below my belly button in the shape of the cosmic mudra. I found that laying my hands in my lap pulled my shoulders forward and placed additional strain on my mid back. It may seem strange at first to hold the hands in the air unsupported, but there is surprisingly little effort involved. The biceps can support the weight of the forearms and hands with no difficulty. And, because the arms are close to the body, there is no excess load or strain on the back. </p>
+
+<p><b>picture</b></p>
+
+<h2>The Cosmic Mudra</h2>
+
+<p>If you are just getting started with meditation, you will probably hear about placing the hands in a special shape called a "mudra". The term “mudra” is the Sanskrit word for “gesture”. It simply refers to a special way of positioning the hands. Traditionally, spiritual seekers in the Hindu and Buddhist held their hands in a position with symbolic or even magical significance.</p>
+
+<p>Probably the most widely-known  mudra today is the “cosmic mudra”. You can form the cosmic mudra by placing your hands in your lap facing upward. Place one hand on top of the other. Line up the first knucke of your top ring finger with the second knucke of the bottom ring finger. Touch the tips of your thumbs together to form a gentle oval. </p>
+
+<div class="center-image"><img src="/images/hands-mudra-cosmic.jpg" class="page-standard"></div>
+
+<p>The cosmic mudra is a very comfortable position for the hands over long periods of time, which is probably the main reason for its popularity. In addition, because the thumbs rest very lightly against one another, this mudra can be a useful indicator of the quality of your posture or attention. If you find yourself off balance or slumping, or if your mind is wandering, the first sign of trouble may be a subtle degradation in the shape of the mudra. For these reasons the cosmic mudra is commonly used among secular-minded people who assign it no magical significance.</p>
+
+<p>Nevertheless, if you the cosmic mudra unappealing, you can just lay your hands in your lap, facing up, with one on top of the other. Or you can just call it “making an oval”.</p>
 

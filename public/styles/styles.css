@@ -4,13 +4,14 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
-	background: #d4d4d4;
-	color: #474747;
+    background: #d4d4d4;
+    /*background-image: url("/images/bamboo2.jpg");*/
+	color: #111;
 	}
 
 a {
-	text-decoration: no
-	color: #0059b3;
+	text-decoration: none;
+    color: #0059b3;
 	}
 
 a:hover	{
@@ -40,9 +41,8 @@ div#nav{
 }
 
 .panel-background{
-    border-radius: 5px;
-	background: white;
-	padding: 20px;
+	background: #fffff8;
+	padding: 24px 20px;
 }
 
 h1 {
@@ -54,7 +54,8 @@ h1 {
 
 h2 {
 	margin:0;
-    margin-left: 3px;
+    margin-top: 24px;
+    margin-left: 10px;
     margin-bottom: 18px;
 	padding: 0;
 	font-size: 22px;
@@ -62,28 +63,51 @@ h2 {
 
 h3 {
 	margin:0;
+    margin-left: 5px;
 	padding: 0;
 	font-size: 24px;
 }
 
 p{
-    margin-left: 5px;
-    margin-bottom: 18px;
+    margin-left: 30px;
+    margin-bottom: 10px;
 	font-size: 18px;
 	text-align: justify;
 }
 
 blockquote {
-    margin: 10px 30px;
+    margin: 10px 70px;
     border: none;
+    padding: 0;
 	text-align: justify;
+    font-style: italic;
 }
 
-.list-group-item{
+/* sources */
+
+#content ul{
+    margin-left: 30px;
+}
+
+#content ol{
+    margin-left: 30px;
+}
+
+#content li{
+	padding: 10px 15px;
+	font-size: 18px;
+	border: none;
+	background: #fffff8;
+}
+
+
+/* navigation */
+
+#nav .list-group-item{
 	padding: 7px 0px;
 	font-size: 18px;
 	border: none;
-	background: white;
+	background: #fffff8;
 }
 
 #top-nav-menu-item{
@@ -104,4 +128,14 @@ blockquote {
 	margin: 0;
 }
 
+div.center-image{
+    text-align: center;
+}
 
+img.page-standard{
+ margin: 10px auto;   
+ margin-bottom: 12px;
+ width: 400px; 
+ height: auto; 
+ border: solid 1px gray; 
+}

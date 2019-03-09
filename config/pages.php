@@ -1,8 +1,8 @@
 <?php
 
 $pages = array(
-        'about', 'why', 'comfort', 'start', 'legs',
-        'hands', 'back', 'chest', 'shoulders', 'head', 'conditioning', 'problems', 'faq',
+        'about', 'why', 'comfort', 'start', 'seating', 'legs',
+        'hands', 'back', 'chest', 'shoulders', 'head', 'exercises', 'problems', 'faq',
         'sources'
         );
 

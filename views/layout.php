@@ -37,7 +37,7 @@
 
         <div class="row">
 
-            <div class="col-sm-10">
+            <div id="content" class="col-sm-10">
 
                 <div class="panel-background">
 		    		<?php include 'views/pages/' . $page . '.php'; ?>
@@ -45,7 +45,7 @@
 
             </div>
 
-            <div class="col-sm-2" id="nav">
+            <div id="nav" class="col-sm-2">
 
                 <div class="panel-background">
 					<?php include 'views/nav.php'; ?>
@@ -56,6 +56,7 @@
     	</div>
 
     </div>
-
+<br />
+<br />
 </body>
 </html>
