@@ -1,31 +1,25 @@
-<h1>Neutral Chest</h1>
+<h1>Positioning the Chest</h1>
 
-<p>The second key component of a comfortable mediation posture is a neutral chest. This was an element of meditation posture that confused me for many years. Part of the reason for that confusion is that different posture teachers give different guidelines with regard to the chest.</p>
+<p>There are differing views on the chest. Some teachers say you should lift the chest up and out. (e.g., Kapleau) Others say you should anchor the chest down and in. (Porter, Gokhale) In the world of meditation, many teachers give no particular instruction with regard to the chest. (Dogen, Aitken, Gunaratana, Sogen) I have experimented with lifting the chest, anchoring the chest, and ignoring the chest. I have generally found that anchoring the chest provided the most stable and comfortable alignment. In my readings on posture, there are two main individuals who advocate anchoring the chest downward: Kathleen Porter and Esther Gokhale. Both of them give detailed advice on how to position the chest in relation to the abdomen.</p> 
 
-<p>Some meditation instructors will encourage students to “open” or “lift” or “hold up” the chest, and thereby keep it slightly raised. (Kapleau 362) Others say nothing about the chest at all, preferring instead to talk about the alignment of the hips and head. (Dogen, Sogen, Aitken) And at least some contemporary posture teachers discourage lifting the chest, preferring to keep it in a more neutral position. (Porter, Gokhale)</p>
+<h2>Porter</h2>
 
-<p>I see three ways of reconciling these differences:</p>
+<p>According to Porter, while getting into position to sit, you should rotate the chest slightly forward and down, while imagining that you are lifting the middle of your back up onto a little shelf that is just behind you. This will cause your shoulders to subltly rise toward your ears, and the back of your armpits to climb a little upward. The result is that the spine will feel like it is getting longer. (Porter 59) The bottom of your sternum, where you have a little bone called the xyphoid process, should push inward. (Porter 67)</p>
 
-<ul>
+<p>This way or rotating the chest forward of movement has the effect of engaging one of the important muscles of the core: the transverse abdominis, or trans ab. The trans ab is deep adbdominal muscle wraps around the torso like a corset or a cummerbund, and it is the primary stabilizer for the torso and spine. (Porter 74)</p>
 
-<li>
-First, words and images are a course method of communication in the field of posture, where we are attempting to describe and understand subtle adjusments of the internal support structures of complex human anatomy. As a result, different teachers ay have the same understanding of posture, but may use different (and possibly even contradictory) terminology in attempting to guide students toward the same end result.
-</li>
+<p>Porter says that anchoring the chest “accomplishes several things at once: (1) it lessens the arching of the lower back, (2) it positions the rib cage along the axis, and (3) it engages the core that stabilizes everything in place.” (Porter 68) Here is an image showing where the trans ab is located in bright red:</p>
 
-<li>
-Second, different teachers may be confronted with different problems. In the meditation context, when working with students who are accustomed to sitting in chairs, who are now sitting on cushions, a teacher may have to contend with a lot of slumping. As a result, the teacher becomes accustomed to instructing their students to raise up their chests. On the other hand, in a Western setting, when people in chairs attempt to correct their posture, they tend to puff out their chests and arch their backs. As a result, Western posture teachers may spend significantly more time attempting to moderate this pattern of over-correction.</p>
-</li>
+<div class="center-image"><img src="/images/transab.png" class="page-standard" style="width: 300px"></div>
 
-<li>
-Third, it may be possible that zen teachers like Kapleau are overcorrecting posture when they tell students to lift the chest. This may be deliberate, for the purpose of encouraging wakefulness or a sense of confidence while meditating. Or it may be accidental. Conversely, it may be possible that posture teachers like Porter are undercorrecting their students posture, because they are accustomed to working with students who have weakened back muscles.
-</li>
+<p>Porter also provides an exercise to help her students get a feel for engaging the deep supprtive core: First, relax the belly. Then, pretend to blow out dozens of candles in one continuous stream. Keep blowing until you sense a firming of muscles around your middle. Next, cough several times. (Porter 74) The result of these efforts should be that you can feel the trans ab and other related core muscles contracting. Those are the muscles that should support your meditation posture.</p>
 
-</ul>
+<h2>Gokhale</h2>
 
-<p>Ultimately, however, I don’t think it makes a huge difference whether the chest is slighlty raised or kept neutral. I personally prefer the latter approach. But you can experiment with what works best for you. One of the benefits of a meditation practice is that it gives you a lifetime of opportunity to experiement with posture. 
+<p>Gokhale has a similar view of chest alignment. She advises that we should anchor the rib cage, and in so doing "[c]ontract the upper abdominal muscles to pull the rib cage downward and inward, thus lengthening and straightening the low back.” (Gokhale 82) This uses several obdominal muscles, especially the internal obiques. (Gokhale 84) Note that these are different from the "six pack" abdominal muscles that control the tone of the belly.</p>
 
-<p>The best and simplest advice I can give with regard to the chest is simply this. Keep the chest neutral; don’t slump down, and don’t arch up. The results should look something like the picture below.</p>
+<div class="center-image"><img src="/images/abs.jpg" class="page-standard" style="width: 600px"></div>
 
-<p><b>[picture of me sitting from the side]</b></p>
- 
-<p>I also highly recommend Porter’s and Gokhale’s books, which go into great detail on how the chest is held. Both of them are listed in my source list here.</p>
+<p>Gokhale also gives some helpful advice on how to get a feel for the position of the chest. First, establish a sitting position with forward pelvic tilt. Then, reach up above you with both hands. Straighten your arms and visualize reaching for the top of a high cabinet. Gokhale suggests, “Try to find the direction of stretch that gives you length in your back rather than your front. . . . It may help to imagine you are reaching up and over a bar at chest height.” (Gokhale 117)</p>
+
+<p>From this point, pay close attention to the of the muscles in your abdomen. Engage the muscles so that they become sleeker than usual along the sides. The outline of the rib cage may become prominent, like that of a greyhound. From this position, keep the trans abs and obliques tones while bringing down the arms and relaxing the shoulders. The "inner corse" of the abdominal muscles should thus suppor the chest.</p>

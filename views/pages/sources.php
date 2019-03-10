@@ -58,7 +58,7 @@
 
     <li class="sources">
 
-    Shunryu Suzuki, <i>iZen Mind, Beginner's Mind</i> (Shambhala 2011)
+    Shunryu Suzuki, <i>Zen Mind, Beginner's Mind</i> (Shambhala 2011)
 
     </li>
 

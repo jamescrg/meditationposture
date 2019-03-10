@@ -26,12 +26,12 @@ These forms are not a means of obtaining the right state of mind. To take this p
 All these suggestions about leg positions should be taken as guidelines, not as rules. Do the best you can, and no more will be asked. One of our members at the Maui Zendo did a full seven-day sesshin flat on her back. She had ruptured a disk, and could not even sit up without assistance. Daito Kokushi, great master of early Japanese Zen . . . could not sit in any of the conventional ways. (Aitken 20.)
 </blockquote>
 
-<p>Also, it is my understanding that Tibetan monks sit on the floor without the benefit of a cushion, and typically have a relaxed, even slumped posture, at least relative to what is described in this guide. This suggests to me that success in meditation is less about posture and more about attitude and dedication. Nevertheless, because sitting is helpful, it is worth learning how to sit in the healthiest and most comfortable manner possible.</p>
+<p>Also, it is my understanding that Tibetan monks sit on the floor without the benefit of a cushion, and typically have a relaxed, even slumped posture, at least relative to what is described in this guide. This suggests to me that success in meditation is less about posture and more about attitude and dedication. Nevertheless, because sitting is helpful, it is worth learning how to sit in the healthiest and most comfortable manner available to you.</p>
 
 <h2>Other Benefits of Sitting Posture</h2>
 
 <p>
-As a final note on the benefits of posture, I should add that learning to become comfortable while sitting in meditation will pay dividends in other areas of life. You will be also be more comfortable everywhere else, whether sitting on a stool or bench, standing for long periods of time, walking, running, or working in the kitchen. Learning posture may seem confusing or difficult at first, but it is well worth persisting through the early difficulties. Once you find a comfortable alignment, good posture will serve to enhance your overall quality of life. 
+As a final note on the benefits of posture, I should add that learning to become comfortable while sitting in meditation will pay dividends in other areas of life. You will be also be more comfortable everywhere else, whether sitting on a stool or bench, standing for long periods of time, walking, running, or working in the kitchen. You will be more at home in the world, more comfortable in your own body. Learning posture may seem confusing or difficult at first, but it is well worth persisting through the early difficulties. Once you find a comfortable alignment, good posture will serve to enhance your overall quality of life. 
 </p>
 
 

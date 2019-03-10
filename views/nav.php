@@ -9,6 +9,10 @@
 	</li>
     
     <li class="list-group-item">
+		<a <?php highlight($page, 'refresher') ?> href="refresher">Refresher</a>
+	</li>
+    
+    <li class="list-group-item">
 		<a <?php highlight($page, 'why') ?> href="why">Why Sit</a>
 	</li>
     
@@ -54,6 +58,10 @@
 
     <li class="list-group-item" id="bottom-nav-menu-item">
 		<a <?php highlight($page, 'sources') ?> href="sources">Sources</a>
+    </li>
+
+    <li class="list-group-item" id="bottom-nav-menu-item">
+		<a <?php highlight($page, 'contact') ?> href="contact">Contact</a>
     </li>
 
 </ul>
