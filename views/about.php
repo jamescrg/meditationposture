@@ -29,3 +29,11 @@ If you are a meditation instructor, or an expert on posture or physiology, I wou
 Much of the information on this website has been gathered from books. A list of sources is linked in the sidebar, and may also be found <a href="sources">here</a>. Throughout this site, I use parenthetical references to cite to the sources in the list. These references use the last name of the author, followed by a page number.  For example, a citation to <i>Taking the Path of Zen</i> by Robert Aitken, page 15, would look like this: (Aitken 15).
 
 </p>
+
+<h2>Contacting the Author</h2>
+
+<p>
+
+If you have any questions or comments about this site, you are welcome to email me at:</p>
+
+<p> james8900@protonmail.com</p>

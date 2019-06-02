@@ -64,12 +64,6 @@
 
     <li class="sources">
 
-    Thea Sawyer, <i>Put Your Back at Ease: Pain-free Posture for Fitness and Health (2013)
-
-    </li>
-
-    <li class="sources">
-
     Will Johnson, <i>The Posture of Meditation: A Practical Manual for Meditators of All Traditions</i> (Shambhala 2012)
 
     </li>

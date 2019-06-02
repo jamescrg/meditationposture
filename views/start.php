@@ -6,7 +6,7 @@
 
 <ol id="start">
 
-    <li>Get a zafu (with buckwheat filling). You can buy one online. It's a round meditation cusion that looks like this:</li>
+    <li>Get a zafu (with buckwheat filling). You can buy one online. It's a round meditation cushion that looks like this:</li>
 
     <div class="center-image"><img src="/images/zafu-bw.jpg" class="page-standard"></div>
 

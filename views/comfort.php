@@ -39,8 +39,15 @@ Ultimately, as you continue to practice meditation, you will gain an intuition a
 
     <li>
 
-If discomfort is mild it may be safely ignored; if it is severe, you need to change position.
+If discomfort is mild it may be safely ignored.
 
+
+    </li>
+    <li>
+         If discomfort is severe, you need to change position.
+    </li>
+    <li>
+        If discomfort is intermittent, it can probably be ignored. But if it's persistent and getting worse, you should probably change position.
     </li>
     <li>
 
@@ -49,7 +56,7 @@ If the discomfort arises from muscular tension or cramping, you need to change p
     </li>
     <li>
 
-If the discomfort is in a joint, especially the knee, it should be avoided. It's best to change position.
+If your discomfort is in a joint, especially the knee, it should be avoided. It's best to change position.
 
     </li>
     <li>

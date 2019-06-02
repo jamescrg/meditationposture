@@ -139,3 +139,22 @@ img.page-standard{
  height: auto; 
  border: solid 1px gray; 
 }
+
+label.contact{
+	font-size: 18px;
+    font-weight: normal;
+}
+
+input#name{
+    max-width: 400px;
+}
+
+
+input#email{
+    max-width: 400px;
+}
+
+
+input#subject{
+    max-width: 600px;
+}
