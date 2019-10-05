@@ -5,7 +5,7 @@
 
 <p>
 
-The main objective of your meditation posture should be comfort.  While this may seem obvious to many, there is a significant portion of meditators who begin their practice with a mindset of perseverance, and this mindset spills over into their approach to posture.  These individuals, and I count myself among them during the first year or two of my own practice, seem to think that learning to sit for long periods of time without back support will require substantial physical discomfort, and they just need to tough it out. Fortunately, this is not how good poture works. In general, significant discomfort is an indicator that there is something wrong with the way you are sitting. Wil Johnson, in his book "The Posture of Meditation" does an excellent job of explaining this point:
+The main objective of your meditation posture should be comfort.  While this may seem obvious to many, there is a significant portion of meditators who begin their practice with a mindset of perseverance, and this mindset spills over into their approach to posture.  These individuals, and I count myself among them during the first year or two of my own practice, seem to think that learning to sit for long periods of time without back support will require substantial physical discomfort, and they just need to tough it out. Fortunately, this is not how good posture works. In general, significant discomfort is an indicator that there is something wrong with the way you are sitting. Wil Johnson, in his book "The Posture of Meditation" does an excellent job of explaining this point:
 
 </p>
 

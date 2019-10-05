@@ -10,15 +10,9 @@
 
 <p>The Pigeon Stretch. This yoga posture, called Kapotasana in Sanskrit, is extremely valuable for those wishing to sit in the lotus posture (or half lotus) without doing harm to the knees. It can also be useful for anyone who has trouble getting into a cross-legged posture. I recommend doing pigeon on both sides every day before meditating. Before a twenty minute meditation session, I will usually spend at least five to ten minutes opening the hips, most of which is spent in some form of pigeon. There are numerous variations on this stretch, and it is worthwhile to experiment with as many of them as possible.</p>
 
-<p><b>picture</b></p>
-
 <p>The Doorway Stretch. This stretch is performed by standing in an open doorway and placing the forearms on either side of the frame. Lean into the doorway to push the arms back and open the shoulders, stretching the pectoral muscles. For people who have rounded shoulders or “thoracic kyphosis”, or people who experience cramping between the shoulder blades while sitting, this stretch can make the upper back more comfortable. There are also numerous “chest openers” in the practice of yoga, any of which may prove helpful to someone who wants to sit comfortably while meditating.</p>
 
-<p><b>picture</b></p>
-
 <p>Kettle bell Swings. Doing swings with a kettle bell strengthens the key muscles that support the body when sitting upright. Kettle bells can provide many of the benefits of heavy weight-lifting, but with significantly less weight. Kettle bells are relatively cheap, and can be used at home. The one disadvantage I have noticed from working with kettle bells is that they can generate some stiffness in the hips, which must otherwise remain flexible for sitting cross-legged. This can be mitigated by the regular stretching recommended above.</p>
-
-<p><b>picture</b></p>
 
 <p>These exercises should greatly help the vast majority of practitioners. After five years of consistent meditation practice, I still do all three of the above exercises on a regular basis: pigeon every morning for about five minutes before I sit on my cushion, the doorway stretch and kettle bell swings two or three times per week. However, you should develop the mobility and fitness routine that works best for you.</p>
 

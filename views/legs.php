@@ -1,6 +1,6 @@
 <h1>Arranging the Legs</h1>
 
-<p>The starting point to establish a good meditation posture is figuring out how to arrange your legs. This will depend largely upon how much flexibility ou have in your hips. Most people in modern, Western cultures are accustomed to sitting in chairs, and therefore have lost a lot of their natural flexibility. As a result, I will first present some options for sitting in a chair before discussing more traditional meditation positions.</p>
+<p>The starting point to establish a good meditation posture is figuring out how to arrange your legs. This will depend largely upon how much flexibility you have in your hips. Most people in modern, Western cultures are accustomed to sitting in chairs, and therefore have lost a lot of their natural flexibility. As a result, I will first present some options for sitting in a chair before discussing more traditional meditation positions.</p>
 
 <h2>Sitting in a Chair</h2>
 
@@ -12,7 +12,7 @@
 <li>Place a zafu (a round meditation cushion, see below) on top of the seat.</li>
 <li>Place a cushion behind your lower back, but below your mid-back and shoulders.</li>
 <li>Place a special wedge under your tail bone to tilt your pelvis forward.</li>
-<li>Fold up some towels to tilt your pelvis forard</li>
+<li>Fold up some towels to tilt your pelvis forward</li>
 </ul>
 
 
@@ -22,10 +22,9 @@
 
 <p>We are generally advised to keep the legs at 90 degrees when sitting in a chair. This may be good advice for sitting for long periods of time for productive work while using the back rest. But it's not the optimal way to arrange the legs for meditation.</p>
 
-<p> Instead, the thighs should be allowed to slope downward, so that the knees are below the hips. In order to make this possible, you may find it helpful to turn the thighs outward, and allow your feet to turn on their side. You may even want to cross your ankles. Here are a couple of pictures of me sitting on a chair for mediation:</p>
+<p> Instead, the thighs should be allowed to slope downward, so that the knees are below the hips. In order to make this possible, you may find it helpful to turn the thighs outward, and allow your feet to turn on their side. You may even want to cross your ankles. Here is a picture of me sitting on a chair for mediation:</p>
 
 <div class="center-image">
-    <img src="/images/sit-chair-zafu.jpg" class="page-standard" style="margin-right: 20px;" />
     <img src="/images/sit-chair-towels.jpg" class="page-standard" />
 </div>
 
@@ -38,7 +37,6 @@
 <p>Another alternative it to purchase a small wooden bench, called a seiza bench, to put over your calves and under your bottom. The advantage of a seiza bench is that it very firmly supports the entire weight of the upper body and holds you up a little higher, and it is always the same height every time you use it (a zafu is more adjustable but less consistent).</p>
 
 <div class="center-image">
-    <img src="/images/sit-seiza-zafu.jpg" class="page-standard" style="margin-right: 20px;" />
     <img src="/images/sit-seiza-bench.jpg" class="page-standard" />
 </div>
 
@@ -55,9 +53,9 @@
 
 <p>The Burmese posture is similar to sitting cross-legged, except that the knees are positioned more outward so that the legs do not actually overlap one another. Instead, the feet are placed one in front of the other. The shins rest on the floor. </p>
 
-<div class="center-image"><img src="/images/sit-burmese.jpg" class="page-standard"></div>
+<div class="center-image"><img src="/images/sit-burmese.jpg" class="page-standard" style="border: none;"></div>
 
-<p>Burmese requires quite a bit of flexibility in the quadriceps, and places a little more weight on the knees. A person sitting in Burmese still needs to elevate their hips to raise them above the feet and knees, which requires a little bit higher cushion. As a result, Burmese can feel a little wobbly, a little less stable than the various forms of lotusi (see below).</p>
+<p>Burmese requires quite a bit of flexibility in the quadriceps, and places a little more weight on the knees. A person sitting in Burmese still needs to elevate their hips to raise them above the feet and knees, which requires a little bit higher cushion. As a result, Burmese can feel a little wobbly, a little less stable than the various forms of lotus (see below).</p>
 
 <p>The Burmese position has the advantage over cross-legged in that it brings shins down to the floor, providing some added stability. Some meditation teachers will tell students to have both knees on the floor, forming a tripod-like structure. This is useful advice, but it is actually the shins that rest on the floor. The front of the knee joint points toward the floor, but only if the cushion supporting the buttocks is high enough.</p>
 
@@ -74,11 +72,11 @@
 
 <h2>Half Lotus</h2>
 
-<p>Half lotus is similar to quarter lotus, but instead of placing to top foot on the opposite calf, the foot is placed on the thigh. Half lotus requires more hip flexibility, and also demands considerable flexibility from the feet. When I first started sitting in this position, I found that my top foot feelt very “stretched out” after each practice session. This sensation went away after I developed some more flexiblity in the front of my ankles. Now, my feet are quite comfortable in this poition. It is helpful to alternate sides, sitting for one session with the right foot on top, then for the next session with the left on top.</p>
+<p>Half lotus is similar to quarter lotus, but instead of placing to top foot on the opposite calf, the foot is placed on the thigh. Half lotus requires more hip flexibility, and also demands considerable flexibility from the feet. When I first started sitting in this position, I found that my top foot felt very “stretched out” after each practice session. This sensation went away after I developed some more flexibility in the front of my ankles. Now, my feet are quite comfortable in this position. It is helpful to alternate sides, sitting for one session with the right foot on top, then for the next session with the left on top.</p>
 
 <div class="center-image"><img src="/images/sit-lotus-half-front.jpg" class="page-standard"></div>
 
-<p>One can sit in a “low” half lotus, where the foot rests on the lower thigh, or a “high” half lotus where the foot rests on the upper thigh, closer to the crease of the hip. Generally, I find that the low half lotus allos my hips to feel more level, and is generally more comfortable. A high half lotus tends to extend the gluteal muscles on the hip of the top leg, which means I have less padding on that side of my backside. This can cause me to lean slightly to one side.</p>
+<p>One can sit in a “low” half lotus, where the foot rests on the lower thigh, or a “high” half lotus where the foot rests on the upper thigh, closer to the crease of the hip. Generally, I find that the low half lotus allows my hips to feel more level, and is generally more comfortable. A high half lotus tends to extend the gluteal muscles on the hip of the top leg, which means I have less padding on that side of my backside. This can cause me to lean slightly to one side.</p>
 
 <p>The bottom foot can rest under the knee of the opposite leg, which means that knee of the top leg may not rest directly on the floor. This generally hasn't been a problem for me. Also, in order to make sure the knees are coming down as far as possible, it is helpful to maintain some flexibility in the quads. I generally like to tuck the bottom foot back under the top thigh, right near the front edge of my cushion, in the space between the thigh and the floor. This allows both knees to rest on the floor, and allows me to sit on a slightly lower cushion while preserving the curvature in my lower back.</p>
 

@@ -2,7 +2,7 @@
 
 <p>If you are eager to get started and would prefer not to wade through the rest of this site, try the following steps. But if the guidelines below don't work, don't immediately get discouraged. Explore the information provided here and see if you can find some ideas on how to make yourself more comfortable.</p>
 
-<p>At minimum, you should also read the section on the <a href="back">lower back</a>. The central and most important principle of good posture is discussed in that section.</p>
+<p>At minimum, you should also read the section regarding the <a href="back">lower back</a>. The central and most important principle of good posture is discussed in that section.</p>
 
 <ol id="start">
 
@@ -12,7 +12,7 @@
 
     <li>Sit in a cross legged position on the front of the zafu. Allow your pelvis to tip forward, creating some curve in your lower back. Make sure both knees are on the floor. If your knees are floating, put some towels under your cushion to raise your hips higher than your knees. Or you can try placing cushions under your knees to relax the legs. Your setup should look something like this:</li>
 
-    <div class="center-image"><img src="/images/sit-lotus-quarter.jpg" class="page-standard"></div>
+    <div class="center-image"><img src="/images/sit-lotus-half-front.png" class="page-standard" style="border: none;"></div>
 
     <li>Place your hands in your lap. Make an oval like this:</li>
 
@@ -20,7 +20,7 @@
 
     <li>Try to feel the bones of your lower pelvis (there are two of them, called the sitz bones), where they contact the cushion. Your center of balance should be directly over, or just in front of, your sitz bones.
 
-    <li>Sit up straight and press your head gently reach toward the ceiling. This is a light effort. </li>
+    <li>Sit up straight and press your head gently toward the ceiling. This is a light effort. </li>
 
     <li>Keep your chest neutral. Do not consciously lift your sternum.</li>
 
