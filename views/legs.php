@@ -6,45 +6,33 @@
 
 <p>There is no denying that the chair is a valuable invention; its effect on human comfort and productivity has been extensive. However, the chair is also a distinctly Western innovation, and many cultures around the world still function largely without it. (Cranz 1998) Nevertheless, because it is so familiar and so ubiquitous, the chair is a logical starting point for most people.</p>
 
-<p>There are many ways to set up a chair for mediation. Here are a few options:</p>
+<p>You can sit in a chair for meditation in the same way that you sit in a chair for any other form of activity. If you can find a comfortable position, you can simply meditate in your chair. On the other hand, many people find that sitting for meditation is more challenging than when sitting for other types of activities. That is because in meditation the mind is not distracted by some interesting pursuit, and is therefore free to obsess over little bodily discomforts. These discomforts are always present, but they usually lurk below the threshhold of conscious awareness, and so do not present a problem. In meditation, however, they come bubbling to the surface. As a result, it is often helpful to take special care to align the body in an efficient position so as to minimize discomfort.</p>
 
-<ul>
+<p>To that end, many people advise sitting in a chair without the use of a back rest. This seems like it would be <i>less</i> comfortable at first, but with some practice sitting upright without the backrest can actually be <i>more</i> comfortable than reclining. This is especially the case if the chair does not have an ergonomic design.</p>
+
+<p> There are many ways to set up a chair for mediation without using the backrest. Here are a few options:</p>
+
+<ol>
 <li>Place a zafu (a round meditation cushion, see below) on top of the seat.</li>
-<li>Place a cushion behind your lower back, but below your mid-back and shoulders.</li>
-<li>Place a special wedge under your tail bone to tilt your pelvis forward.</li>
-<li>Fold up some towels to tilt your pelvis forward</li>
-</ul>
+<li>Place a a zafu or a cushion behind your lower back.</li>
+<li>Fold up a towel to create a wedge under your tail bone to tilt your pelvis forward</li>
+</ol>
 
-
-<p> Below is a picture of a chair set up for meditation with folded towels. The bottom towel is to provide a little padding, and the top towel that is folded is there to lift the back of the pelvis.</p>
-
-<div class="center-image"><img src="/images/chair.jpg" class="page-standard"></div>
-
-<p>We are generally advised to keep the legs at 90 degrees when sitting in a chair. This may be good advice for sitting for long periods of time for productive work while using the back rest. But it's not the optimal way to arrange the legs for meditation.</p>
-
-<p> Instead, the thighs should be allowed to slope downward, so that the knees are below the hips. In order to make this possible, you may find it helpful to turn the thighs outward, and allow your feet to turn on their side. You may even want to cross your ankles. Here is a picture of me sitting on a chair for mediation:</p>
-
-<div class="center-image">
-    <img src="/images/sit-chair-towels.jpg" class="page-standard" />
-</div>
+<p>We are generally advised to keep the legs at 90 degrees when sitting in a chair. This may be good advice for sitting for long periods of time for productive work while using the back rest. But it's not the optimal way to arrange the legs for meditation. Instead, the thighs should be allowed to slope downward, so that the knees are below the hips. In order to make this possible, you may find it helpful to turn the thighs outward, and allow your feet to turn on their side. You may even want to cross your ankles. Gokhale (see "Sources") talks about this extensively in her book.</p>
 
 <h2>Seiza</h2>
 
 <p>Another way to sit is called seiza. The word "seiza" is Japanese, and refers to a traditional way of kneeling on the floor. This is not something we do very often in the West, and we tend to find it uncomfortable on the knees, but there are several ways to reduce and even eliminate that discomfort.</p>
 
-<p>If you have a zafu, one way to make seiza more comfortable is to place the zafu between your legs like a saddle. This arrangement allows the weight of the body to be supported by the cushion rather than the legs alone.</p>
+<p>If you have a zafu, one way to make seiza more comfortable is to place the zafu between your feet and sit on it. This arrangement allows the weight of the body to be supported by the cushion rather than the legs alone.</p>
 
-<p>Another alternative it to purchase a small wooden bench, called a seiza bench, to put over your calves and under your bottom. The advantage of a seiza bench is that it very firmly supports the entire weight of the upper body and holds you up a little higher, and it is always the same height every time you use it (a zafu is more adjustable but less consistent).</p>
-
-<div class="center-image">
-    <img src="/images/sit-seiza-bench.jpg" class="page-standard" />
-</div>
+<p>Another alternative is to purchase a small wooden bench, called a seiza bench, to put over your calves and under your bottom. The advantage of a seiza bench is that it very firmly supports the entire weight of the upper body and holds you up a little higher, and it is always the same height every time you use it (a zafu is more adjustable but less consistent).</p>
 
 <p>Seiza is an excellent position for beginning meditators, because it promotes healthy spinal alignment. When sitting in seiza, good alignment of the lower back occurs almost without effort. </p>
 
 <h2>Cross-legged</h2>
 
-<p>This is the standard, familiar position for sitting on the ground. The benefit of sitting in the familiar cross-legged position is that it requires relatively little flexibility and places the weight of the body directly over the pelvis and hips. The disadvantage of sitting cross-legged is that it elevates the knees higher than the hips, which tips your weight backwards. This requires you to lean forward to maintain your balance, collapsing the lower back and bringing the shoulders slumping forward. This can be comfortable for a short time, but it will cause nagging fatigue.</p>
+<p>This is the standard, familiar position for sitting on the ground. The benefit of sitting in the familiar cross-legged position is that it requires relatively little flexibility and places the weight of the body directly over the pelvis and hips.</p>
 
 <p>The cross-legged posture can nevertheless be a viable position for meditation. The key is to use a cushion to elevate the hips high enough to support the natural curvature of the lumbar spine. Most online mediation supply vendors have cushions of this type. The general rule is that the hips should be higher than the knees.</p>
 
@@ -66,9 +54,6 @@
 <h2>Quarter Lotus</h2>
 
 <p>Similar to cross-legged, but instead of crossing the legs at the shins, one foot is placed on top of the opposite calf. Quarter lotus is a very comfortable position for people who have the requisite hip flexibility. I generally find that, when sitting on a lower cushion, I am more comfortable in quarter lotus than in Burmese. Many long-term practitioners favor quarter lotus as their mainstay sitting position. In fact, quarter lotus closely resembles the yoga posture called siddhasana or “perfect seat”. A classic fifteenth-century manual on hatha yoga, the Hatha Yoga Pradipika, poses the following question: “When siddhasana is mastered, of what use are the various other postures?” (Feuerstein 63) </p>
-
-<div class="center-image"><img src="/images/sit-lotus-quarter.jpg" class="page-standard"></div>
-
 
 <h2>Half Lotus</h2>
 

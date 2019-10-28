@@ -5,7 +5,7 @@
 
 <p>
 
-The main objective of your meditation posture should be comfort.  While this may seem obvious to many, there is a significant portion of meditators who begin their practice with a mindset of perseverance, and this mindset spills over into their approach to posture.  These individuals, and I count myself among them during the first year or two of my own practice, seem to think that learning to sit for long periods of time without back support will require substantial physical discomfort, and they just need to tough it out. Fortunately, this is not how good posture works. In general, significant discomfort is an indicator that there is something wrong with the way you are sitting. Wil Johnson, in his book "The Posture of Meditation" does an excellent job of explaining this point:
+The main objective of your meditation posture should be comfort.  While this may seem obvious to many, there is a significant portion of meditators who begin their practice with a mindset of perseverance, and this mindset spills over into their approach to posture.  These individuals seem to think that learning to sit for long periods of time without back support will require substantial physical discomfort, and they just need to tough it out. Fortunately, this is not how good posture works. In general, significant discomfort is an indicator that there is something wrong with the way you are sitting. Wil Johnson, in his book "The Posture of Meditation" does an excellent job of explaining this point:
 
 </p>
 
@@ -17,7 +17,7 @@ The alignment you seek is a completely natural and comfortable condition.  It is
 
 <p>
 
-These observations by Mr. Johnson generally accord with my own experience, as well. Whenever I have experienced significant muscle tension, cramping, or fatigue, it has been a clear indication that I am trying to impose a position on my body that is sub-optimal. Toughing it out has generally just made the problem worse.
+These observations by Mr. Johnson generally accord with my own experience. Whenever I have experienced significant muscle tension, cramping, or fatigue, it has been a clear indication that I am trying to impose a position on my body that is sub-optimal. Toughing it out has generally just made the problem worse.
 
 </p>
 
@@ -25,7 +25,7 @@ These observations by Mr. Johnson generally accord with my own experience, as we
 
 <p>
 
-On the other hand, it is also important to bear in mind that some amount of discomfort is unavoidable. With practice and experience, you will come to appreciate the fact that the human body loves to complain, and that discomfort of one form or another is a nearly constant companion in life. But you will also learn that discomfort that is patiently endured has a way of disappearing in due time. 
+On the other hand, it is also important to bear in mind that some amount of discomfort is unavoidable. With practice and experience, you will come to appreciate the fact that the human body loves to complain. But you will also learn that discomfort that is patiently endured has a way of disappearing in due time. 
 
 </p>
 
