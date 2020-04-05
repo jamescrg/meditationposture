@@ -1,12 +1,10 @@
 <h1>Hand and Arm Placement</h1>
 
-<h2>Three Options</h2>
-
 <p>The hands should be positioned to allow the arms to hang as close to the body as possible. The more the arms move away from the torso, the more they place a strain on the muscles of the back. In light of this principle, there there are three main ways of positioning the hands: on the thighs, in the lap, or at the navel.</p>
 
 <h2>On the Thighs</h2>
 
-<p>Most beginning practitioners will find that placing the hands on the thighs feels like the most natural and comfortable option. However, in time many find that placing the hands on the thighs tends to be a little uncomfortable. This is because it is easy to start resting the weight of the upper body on the hands, which can cause some strain in my shoulders. It is easy to fall into this habit without even noticing it.</p>
+<p>Most beginning practitioners will find that placing the hands on the thighs feels like the most natural and comfortable option. However, in time many find that placing the hands on the thighs tends to be a little uncomfortable. This is because it is easy to start resting the weight of the upper body on the hands, which can cause some strain in the shoulders. It is easy to fall into this habit without even noticing.</p>
 
 <p>On the other hand, if the hands are are too far away, the weight of my arms tends to pull the shoulders down and forward, again causing cramping in the shoulders. However, these observations are based mainly on my own personal experience, and on the comments of some experienced mediation teachers. You may find that resting your hands on your thighs works perfect well for you. Nevertheless, the most common practice among experienced practitioners is to rest the hands in the lap.</p>
 
@@ -24,9 +22,4 @@
 
 <p>Probably the most widely-known  mudra today is the “cosmic mudra”. You can form the cosmic mudra by placing your hands in your lap facing upward. Place one hand on top of the other. Line up the first knuckle of your top ring finger with the second knuckle of the bottom ring finger. Touch the tips of your thumbs together to form a gentle oval. </p>
 
-<div class="center-image"><img src="/images/hands-mudra-cosmic.jpg" class="page-standard"></div>
-
-<p>The cosmic mudra is a very comfortable position for the hands over long periods of time, which is probably the main reason for its popularity. In addition, because the thumbs rest very lightly against one another, this mudra can be a useful indicator of the quality of your posture or attention. If you find yourself off balance or slumping, or if your mind is wandering, the first sign of trouble may be a subtle degradation in the shape of the mudra. For these reasons the cosmic mudra is commonly used among secular-minded people who assign it no magical significance.</p>
-
-<p>Nevertheless, if you the cosmic mudra unappealing, you can just lay your hands in your lap, facing up, with one on top of the other. Or you can just call it “making an oval”.</p>
-
+<p>The cosmic mudra is a very comfortable position for the hands over long periods of time, which is probably one of the reasons for its historical popularity. In addition, because the thumbs rest very lightly against one another, this mudra can be a useful indicator of the quality of your posture or attention. If you find yourself off balance or slumping, or if your mind is wandering, the first sign of trouble may be a subtle degradation in the shape of the mudra.</p>

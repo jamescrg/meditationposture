@@ -20,7 +20,7 @@
 
     <li>For now, don't worry about your shoulders.</li>
 
-    <li>Bring your chin slightly down. Keep the back of your neck long. Here is a side view of how your alignment may look. Bear in mind that my posture may not be perfect. My head is a bit forward.</li>
+    <li>Bring your chin slightly down. Keep the back of your neck long.</li>
 
     <li>Relax as much as possible. You will still need to expend some amount of muscular effort in sitting upright, but in due time you will grow accustomed to the position, and that sense of effort will become increasingly light.</li>
 

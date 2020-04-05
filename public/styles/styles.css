@@ -19,8 +19,8 @@ a:hover	{
 	color: green;
 	}
 
-.strong{
-	font-weight: bold;
+strong{
+	font-weight: 600;
 	}
 
 #title{
@@ -137,7 +137,6 @@ img.page-standard{
  margin-bottom: 12px;
  width: 400px; 
  height: auto; 
- border: solid 1px gray; 
 }
 
 label.contact{
