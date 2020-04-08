@@ -40,7 +40,7 @@
             <div id="content" class="col-sm-10">
 
                 <div class="panel-background">
-		    		<?php include 'views/' . $page . '.php'; ?>
+		    		<?php echo $text; ?>
                 </div>
 
             </div>

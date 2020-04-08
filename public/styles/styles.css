@@ -4,7 +4,7 @@
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
-    background: #d4d4d4;
+    background: #d4d4d4; 
     /*background-image: url("/images/bamboo2.jpg");*/
 	color: #111;
 	}
@@ -76,7 +76,7 @@ p{
 }
 
 blockquote {
-    margin: 10px 70px;
+    margin: 10px 50px;
     border: none;
     padding: 0;
 	text-align: justify;

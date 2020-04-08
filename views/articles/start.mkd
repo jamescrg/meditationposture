@@ -1,8 +1,8 @@
-<h1>Getting Started</h1>
+#Getting Started##
 
-<p>If you are eager to get started and would prefer not to wade through the rest of this site, try the following steps. But if the guidelines below don't work, don't immediately get discouraged. Explore the information provided here and see if you can find some ideas on how to make yourself more comfortable.</p>
+If you are eager to get started and would prefer not to wade through the rest of this site, try the following steps. But if the guidelines below don't work, don't immediately get discouraged. Explore the information provided here and see if you can find some ideas on how to make yourself more comfortable.
 
-<p>At minimum, you should also read the section regarding the <a href="back">lower back</a>. The central and most important principle of good posture is discussed in that section.</p>
+At minimum, you should also read the section regarding the <a href="back">lower back</a>. The central and most important principle of good posture is discussed in that section.
 
 <ol id="start">
 
