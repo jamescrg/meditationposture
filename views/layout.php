@@ -4,7 +4,7 @@
     <head>
 
         <meta charset="UTF-8" content="">
-	    <title>meditationposture.org </title>
+	    <title>meditationposture.org</title>
 		<link rel="shortcut icon" href="" />
 		<link rel="apple-touch-icon" href="" />
 
@@ -30,7 +30,7 @@
         <div class="row">
 
             <div class="col-sm-12">
-				<div id="title">meditationposture.org</div>
+				<div id="title"><a href="about" id="titleLink">meditationposture.org</a></div>
             </div>
 
         </div>

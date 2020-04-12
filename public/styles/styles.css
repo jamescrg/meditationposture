@@ -1,38 +1,64 @@
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700);
 
+/*-----------------------------------*/
+/* body and links */
+/*------------------------------------*/
+
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
-    background: #d4d4d4; 
-    /*background-image: url("/images/bamboo2.jpg");*/
+    background-color: #484e48;
+    background-image: url("/images/forest-abstract.jpg");
 	color: #111;
 	}
 
 a {
 	text-decoration: none;
-    color: #0059b3;
+    color: #355900;
 	}
 
 a:hover	{
 	text-decoration: none;
-	color: green;
+	color: #538c00;
 	}
 
 strong{
 	font-weight: 600;
 	}
 
+/*-----------------------------------*/
+/* title */
+/*------------------------------------*/
+
 #title{
-	margin-top: 15px;
-	margin-bottom: 15px;
+	margin: 20px 0 0 0;
+    padding: 7px 0;
 	font-size: 30px;
+    background: #fffff8;
+    width: 340px;
+    text-align: center;
+    border-radius: 5px;
 }
 
+#titleLink{
+    color: #111;
+}
+
+#titleLink:hover{
+    color: #111;
+}
+
+/*-----------------------------------*/
+/* content */
+/*------------------------------------*/
+
 div#content{
+    margin-top: 20px;
 }
 
 div#nav{
+    margin-top: 20px;
 }
 
 .col-sm-2, .col-sm-3, .col-sm4, .col-sm-8, .col-sm-9, .col-sm-10,.col-sm-11,.col-sm-12 {
@@ -41,8 +67,9 @@ div#nav{
 }
 
 .panel-background{
-	background: #fffff8;
+    background: #fffff8;
 	padding: 24px 20px;
+    border-radius: 5px;
 }
 
 h1 {
@@ -70,52 +97,61 @@ h3 {
 
 p{
     margin-left: 30px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 	font-size: 18px;
 	text-align: justify;
 }
 
 blockquote {
-    margin: 10px 50px;
+    margin: 20px 100px 20px 70px;
     border: none;
     padding: 0;
 	text-align: justify;
     font-style: italic;
 }
 
-/* sources */
+img.page-standard{
+ margin: 10px auto;   
+ margin-bottom: 0px;
+ height: auto; 
+}
 
 #content ul{
-    margin-left: 30px;
+    margin-top: -10px;
+    margin-left: 15px;
 }
 
 #content ol{
-    margin-left: 30px;
+    margin-top: -10px;
+    margin-left: 15px;
 }
 
 #content li{
 	padding: 10px 15px;
 	font-size: 18px;
-	border: none;
-	background: #fffff8;
 }
 
 
+/*-----------------------------------*/
 /* navigation */
+/*------------------------------------*/
+
 
 #nav .list-group-item{
 	padding: 7px 0px;
 	font-size: 18px;
 	border: none;
-	background: #fffff8;
+    background: #fffff8;
 }
 
 #top-nav-menu-item{
 	padding-top: 0px;
+    margin-top: 0px;
 }
 
 #bottom-nav-menu-item{
 	padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 #nav ul {
@@ -132,12 +168,28 @@ div.center-image{
     text-align: center;
 }
 
-img.page-standard{
- margin: 10px auto;   
- margin-bottom: 12px;
- width: 400px; 
- height: auto; 
+div.caption{
+    margin-top: 7px;
+    text-align: center;
+    font-size: 14px;
+	font-weight: 600;
 }
+
+/*-----------------------------------*/
+/* sources */
+/*------------------------------------*/
+.sources {
+    padding: 0;
+}
+
+.sources li{
+    list-style-type: none;
+}
+
+/*-----------------------------------*/
+/* contact */
+/*------------------------------------*/
+
 
 label.contact{
 	font-size: 18px;
@@ -155,5 +207,15 @@ input#email{
 
 
 input#subject{
-    max-width: 600px;
+    /*max-width: 600px;*/
+}
+
+#contactButton{
+    background-color: #355900;
+    border-color: #355900;
+    box-shadow: none;
+}
+
+.form-control:focus{
+border-color: #538c00;
 }
