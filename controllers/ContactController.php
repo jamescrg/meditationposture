@@ -5,6 +5,11 @@
 
 class ContactController
 {
+    // tips for user to correct message
+    public $tips = array();
+
+    // views to display
+    public $components = array();
 
     // check for user-submitted input from the contact form
     // this uses a hidden input element on the form called "submitted"
@@ -13,54 +18,7 @@ class ContactController
         if (isset($_POST['submitted'])) return true;
         return false;
             
-            //require 'core/email.php';
-
     }
-
-
-    // selects which view to display on the user
-    // defaults to the form
-    // shows a success message if the user has sent a successful email
-/*    private function selectView($submitted){*/
-
-        //$view = 'form';
-        //if ($submitted) $view = 'message';
-
-        //return $view;
-
-    /*}*/
-
-
-    private function checkRecaptcha(){
-
-        $response = $_POST["g-recaptcha-response"];
-
-        $url = 'https://www.google.com/recaptcha/api/siteverify';
-        $data = array(
-            'secret' => '6LeKgegUAAAAAIjhowA5vnlBkATmStkfVnPtAoKG',
-            'response' => $_POST["g-recaptcha-response"]
-        );
-
-        $options = array(
-            'http' => array (
-                'header' => "Content-Type: application/x-www-form-urlencoded\r\n",
-                'method' => 'POST',
-                'content' => http_build_query($data)
-            )
-        );
-
-        $context  = stream_context_create($options);
-        $verify = file_get_contents($url, false, $context);
-        $captcha_success=json_decode($verify);
-
-        if ($captcha_success->success==false) {
-            return false;
-        } else if ($captcha_success->success==true) {
-            return true;
-        }
-
-    }
-
 
     // loads the contact page
     // checks for user submitted input
@@ -72,35 +30,40 @@ class ContactController
 
         $submitted = $this->checkSubmit(); 
 
-            $view = 'form';
-
-
         if ($submitted) {
 
-            $recaptcha = $this->checkRecaptcha();
-            
-            if ($recaptcha) {
+            // instantiate a new message object
+            $message = new Message;
 
-                require '../core/Mailer.php';
-                $mailer = new Mailer;
+            // feed the message object to the validator
+            // the validator will automatically run checks on the message
+            // the results are stored in the validator's public properties
+            $validator = new Message_Validator($message);
+            
+            if ($validator->result == 'passed') {
+
+                $mailer = new Message_Mailer($message);
                 $mailer->send();
                 
-                $view = 'success';
+                $components[] = 'views/contact/success.php';
 
             } else {
 
-                $view = 'failure';
+                $components[] = 'views/contact/failure.php';
+                $components[] = 'views/contact/form.php';
+                $this->tips = $validator->details;
 
             }
 
+        } else {
+
+            $components[] = 'views/contact/invitation.php';
+            $components[] = 'views/contact/form.php';
 
         }
 
-        //$view = $this->selectView($submitted);
 
-        $text = file_get_contents('../views/contact/'.$view.'.php');
-
-        return $text;
+        $this->components = $components;
 
     }
 

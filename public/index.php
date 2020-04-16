@@ -1,10 +1,27 @@
 <?php
 
 // require core application components
+// -------------------------------------------------------
 
 set_include_path(get_include_path() . PATH_SEPARATOR . '/var/www/mp');
 require 'vendor/autoload.php';
 require 'core/bootstrap.php';
+
+
+// require all classes
+// this could become an autoloader as the application grows
+// -------------------------------------------------------
+
+// loads site articles
+require 'controllers/ArticleController.php';
+
+// handles the site's contact page
+require 'controllers/ContactController.php';
+
+// messaging classses
+require 'core/Message.php';
+require 'core/Message_Validator.php';
+require 'core/Message_Mailer.php';
 
 
 // instantiate the app
@@ -44,15 +61,15 @@ $page = $router->direct();
 
 if ($page == "contact") {
 
-    require 'controllers/ContactController.php';
     $cc = new ContactController;
-    $text = $cc->load();
+    $cc->load();
+    $tips = $cc->tips;
+    $components = $cc->components;
 
 } else {
 
-    require 'controllers/ArticleController.php';
-    $art = new ArticleController;
-    $text = $art->load($page);
+    $ac = new ArticleController;
+    $text = $ac->load($page);
 
 }
 

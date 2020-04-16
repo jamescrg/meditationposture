@@ -4,8 +4,16 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-class Mailer 
+class Message_Mailer 
 {
+    public $message;
+
+    function __construct($message) {
+
+        $this->message = $message;
+
+    }
+
     public function send() {
 
         $mail = new PHPMailer(true);
@@ -26,19 +34,20 @@ class Mailer
 
             //Recipients
 
-            $mail->setFrom($_POST['email'], $_POST['name']);
+            $mail->setFrom($this->message->email, $this->message->name);
             $mail->addAddress('meditationposture@gmail.com', '');
             $mail->addAddress('jamespcraig@gmail.com', '');
-            $mail->addReplyTo($_POST['email'], $_POST['name']);
+            $mail->addReplyTo($this->message->email, $this->message->name);
 
 
             // Content
             
             $mail->isHTML(true);
-            $mail->Subject = 'MP Site Message - ' . $_POST['subject'];
-            $mail->Body    = $_POST['name'] .'<br>'.  $_POST['email'] .'<br><br>'. $_POST['body'];
-            $mail->AltBody = $_POST['name'] .'<br>'.  $_POST['email'] .'<br><br>'. $_POST['body'];
-
+            $mail->Subject = 'MP Site Message - ' . $this->message->subject;
+            $mail->Body    =    $this->message->name .'<br>'
+                                .  $this->message->email .'<br><br>'
+                                . $this->message->body;
+            $mail->AltBody = $mail->Body;
             $mail->send();
 
         } catch (Exception $e) {

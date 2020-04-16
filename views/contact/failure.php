@@ -1,7 +1,9 @@
 
 
-<p>Sorry, your message could not be sent.</p>
+<p>Sorry, your message did not go through.</p>
 
-<p>The recaptcha response was unsuccessful. Please try again.</p>
+<?php foreach ($cc->tips as $tip) { ?>
 
-<p> Click <a href="about">here</a> to return to the home page.</p>
+    <p><?php echo $tip ?></p>
+
+<?php } ?>

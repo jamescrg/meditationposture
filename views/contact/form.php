@@ -27,7 +27,6 @@
     <div class="form-group">
     <div class="g-recaptcha" data-sitekey="6LeKgegUAAAAACdnoYhcA1zTTQA546aqZfgREZBf"></div>
     </div>
-    <span id="captcha_error" class="text-danger"></span>
 
     <button id="contactButton" type="submit" class="btn btn-primary mb-2">Submit</button>
 
@@ -35,7 +34,3 @@
 
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
-<?php
-//recapta site key i6LeKgegUAAAAACdnoYhcA1zTTQA546aqZfgREZBf
-//recaptcha secret key 6LeKgegUAAAAAIjhowA5vnlBkATmStkfVnPtAoKG
-?>
