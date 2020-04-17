@@ -1,15 +1,19 @@
 <?php
+namespace App\Contact;
 
 // manages user input in association with the contact page
 // -------------------------------------------------------
 
-class ContactController
+class Controller
 {
     // tips for user to correct message
     public $tips = array();
 
     // views to display
-    public $components = array();
+    public $views = array();
+
+    // message to pass through to contact form
+    public $message;
 
     // check for user-submitted input from the contact form
     // this uses a hidden input element on the form called "submitted"
@@ -28,42 +32,46 @@ class ContactController
     // loads a blank form by default
     public function load() {
 
+        // instantiate a message object
+        // this insures that an object is always declared, even if its empty
+        // so that the message form does generate errors when loaded
+        // the message object will autopopulate with the $_POST data
+        $this->message = new Message;
+
         $submitted = $this->checkSubmit(); 
 
         if ($submitted) {
 
-            // instantiate a new message object
-            $message = new Message;
-
             // feed the message object to the validator
             // the validator will automatically run checks on the message
             // the results are stored in the validator's public properties
-            $validator = new Message_Validator($message);
-            
-            if ($validator->result == 'passed') {
+            $validator = new Validator($this->message);
+            $validator->validate();
 
-                $mailer = new Message_Mailer($message);
+            if ($validator->grade == 'passed') {
+
+                $mailer = new Mailer($this->message);
                 $mailer->send();
                 
-                $components[] = 'views/contact/success.php';
+                $views[] = 'views/contact/success.php';
 
             } else {
 
-                $components[] = 'views/contact/failure.php';
-                $components[] = 'views/contact/form.php';
-                $this->tips = $validator->details;
+                $views[] = 'views/contact/failure.php';
+                $views[] = 'views/contact/form.php';
+                $this->tips = $validator->tips;
 
             }
 
         } else {
 
-            $components[] = 'views/contact/invitation.php';
-            $components[] = 'views/contact/form.php';
+            $views[] = 'views/contact/invitation.php';
+            $views[] = 'views/contact/form.php';
 
         }
 
 
-        $this->components = $components;
+        $this->views = $views;
 
     }
 

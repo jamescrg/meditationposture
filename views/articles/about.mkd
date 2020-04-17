@@ -3,7 +3,6 @@
 This website aims to help people who meditate find a comfortable posture. I am not an expert on posture, but I have read widely on the subject. I also have several years of experience in practicing meditation. During the first few years, I had some trouble with learning how to get comfortable, and I would like to help others avoid the difficulties that I initially experienced.
 
 <div class="center-image"><img src="/images/kodo-sawaki-panels-alpha-bright.png" class="page-standard img-responsive" style="width: 880px;"></div>
-<!--<div class="caption">Famous Zen teacher Kodo Sawaki</div>-->
 
 ##For Beginners
 
@@ -11,7 +10,7 @@ If you are new to meditation, I would like to take this opportunity to congratul
 
 ##For Teachers
 
-If you are a meditation instructor, or an expert on posture or physiology, I would love to hear from you. I would appreciate your feedback on how the information on this site may be improved. 
+If you are a meditation instructor or an expert on posture I would love to hear from you. I would appreciate your feedback on how the information on this site may be improved. 
 
 ##A Note on Sources
 

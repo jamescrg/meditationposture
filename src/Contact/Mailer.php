@@ -1,20 +1,23 @@
 <?php
+namespace App\Contact;
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-class Message_Mailer 
+class Mailer 
 {
     public $message;
 
-    function __construct($message) {
+    function __construct($message)
+    {
 
         $this->message = $message;
 
     }
 
-    public function send() {
+    public function send()
+    {
 
         $mail = new PHPMailer(true);
 
@@ -52,7 +55,9 @@ class Message_Mailer
 
         } catch (Exception $e) {
 
-            echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+            return false;
+
+            //echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 
         }
 

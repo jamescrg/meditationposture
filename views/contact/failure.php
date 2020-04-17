@@ -1,9 +1,13 @@
 
 
-<p>Sorry, your message did not go through.</p>
+<p>Sorry, your message did not go through. Please consider the suggestion(s) below:</p>
 
-<?php foreach ($cc->tips as $tip) { ?>
+<div id="tips">
 
-    <p><?php echo $tip ?></p>
+    <?php foreach ($cc->tips as $tip) { ?>
 
-<?php } ?>
+        <p>* <?php echo $tip ?></p>
+
+    <?php } ?>
+
+</div>

@@ -1,13 +1,14 @@
 <?php
+namespace App\Article;
 
-class ArticleController
+class Controller
 {
 
     public function load($page) {
         
         $text = file_get_contents('../views/articles/' . $page . '.mkd'); 
-        $Parsedown = new Parsedown();
-        $text = $Parsedown->text($text); 
+        $parser = new \Parsedown();
+        $text = $parser->text($text); 
         return $text;
 
     }

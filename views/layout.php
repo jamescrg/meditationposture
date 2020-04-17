@@ -40,8 +40,7 @@
             <div id="content" class="col-sm-10">
 
                 <div class="panel-background">
-                    <?php if ($page == 'contact') foreach ($components as $component)  include($component)  ?>
-		    		<?php if ($page != 'contact') echo $text; ?>
+                    <?php foreach ($views as $view) include($view) ?>
                 </div>
 
             </div>

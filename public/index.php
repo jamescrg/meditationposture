@@ -1,75 +1,51 @@
 <?php
 
-// require core application components
-// -------------------------------------------------------
 
+// set include path
 set_include_path(get_include_path() . PATH_SEPARATOR . '/var/www/mp');
+set_include_path(get_include_path() . PATH_SEPARATOR . '/var/www/mp/src');
+
+
+// include autoloader for classes
+// -------------------------------------------------------
+// class include paths are based on PSR-4 and the composer autoloader
+// see compers.json for specific paths
 require 'vendor/autoload.php';
-require 'core/bootstrap.php';
 
+// load helper functions
+require 'frame/helpers.php';
 
-// require all classes
-// this could become an autoloader as the application grows
-// -------------------------------------------------------
-
-// loads site articles
-require 'controllers/ArticleController.php';
-
-// handles the site's contact page
-require 'controllers/ContactController.php';
-
-// messaging classses
-require 'core/Message.php';
-require 'core/Message_Validator.php';
-require 'core/Message_Mailer.php';
-
-
-// instantiate the app
-// -------------------------------------------------------
-// the App object loads an array of pages
-// about, back, start . . . etc.
-// this array is loaded into $app
-
-$app = new App;
-
-
-// obtain the user Request
-// -------------------------------------------------------
-// the Request class obtains the current URI from
-// the $_SERVER['REQUEST_URI'] superglobal variable
-
-$request = new Request;
-
-$uri = $request->getUri();
+// load router
+require 'frame/Router.php';
 
 
 // Route the request to the selected page
 // -------------------------------------------------------
 // The Router class compares the list of pages to the current URI
 // It then sets the current page to the one that matches the current request
-// In other words "directs" the request to the appropriate page
+// In other words, "directs" the request to the appropriate page
 
-$router = new Router($uri, $app);
+$router = new Frame\Router();
 
 $page = $router->direct();
 
-
 // Load the appropriate controller based on the page type
 // -------------------------------------------------------
-// the contact page needs to load a form or a results message
-// everything else just loads a static "article" (e.g. one of the pages with content)
+// the controller then loads the list of relevant templates and 
+// provides them with the relevant data
 
 if ($page == "contact") {
 
-    $cc = new ContactController;
+    $cc = new App\Contact\Controller();
     $cc->load();
     $tips = $cc->tips;
-    $components = $cc->components;
+    $views = $cc->views;
 
 } else {
 
-    $ac = new ArticleController;
+    $ac = new App\Article\Controller;
     $text = $ac->load($page);
+    $views[] = 'articles/article.php';
 
 }
 

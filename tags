@@ -9,8 +9,6 @@ AltBody	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $this->Al
 AltBody	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $this->AltBody = 'This is an HTML-only message. To view it, activate HTML in your email application.'$/;"	v
 AltBody	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->AltBody = static::normalizeBreaks($this->html2text($message, $advanced));$/;"	v
 AltBody	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $AltBody = '';$/;"	v
-App	core/App.php	/^class App$/;"	c
-ArticleController	controllers/ArticleController.php	/^class ArticleController$/;"	c
 AuthType	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $AuthType = '';$/;"	v
 Block	vendor/erusev/parsedown/Parsedown.php	/^                $Block = $this->{'block'.$CurrentBlock['type'].'Continue'}($Line, $CurrentBlock);$/;"	v
 Block	vendor/erusev/parsedown/Parsedown.php	/^                $Block = $this->{'block'.$blockType}($Line, $CurrentBlock);$/;"	v
@@ -25,11 +23,12 @@ ClassLoader	vendor/composer/ClassLoader.php	/^class ClassLoader$/;"	c
 ComposerAutoloaderInit5be92abfb4610c4151f3832ea0d0a8ed	vendor/composer/autoload_real.php	/^class ComposerAutoloaderInit5be92abfb4610c4151f3832ea0d0a8ed$/;"	c
 ComposerStaticInit5be92abfb4610c4151f3832ea0d0a8ed	vendor/composer/autoload_static.php	/^class ComposerStaticInit5be92abfb4610c4151f3832ea0d0a8ed$/;"	c
 ConfirmReadingTo	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $ConfirmReadingTo = '';$/;"	v
-ContactController	controllers/ContactController.php	/^class ContactController$/;"	c
 ContentType	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $this->ContentType = static::CONTENT_TYPE_MULTIPART_ALTERNATIVE;$/;"	v
 ContentType	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $this->ContentType = static::CONTENT_TYPE_PLAINTEXT;$/;"	v
 ContentType	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $this->ContentType = static::CONTENT_TYPE_TEXT_HTML;$/;"	v
 ContentType	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $ContentType = self::CONTENT_TYPE_PLAINTEXT;$/;"	v
+Controller	src/Article/Controller.php	/^class Controller$/;"	c
+Controller	src/Contact/Controller.php	/^class Controller$/;"	c
 CurrentBlock	vendor/erusev/parsedown/Parsedown.php	/^                        $CurrentBlock = $this->{'block'.$CurrentBlock['type'].'Complete'}($CurrentBlock);$/;"	v
 CurrentBlock	vendor/erusev/parsedown/Parsedown.php	/^                    $CurrentBlock = $Block;$/;"	v
 CurrentBlock	vendor/erusev/parsedown/Parsedown.php	/^                $CurrentBlock = $this->paragraph($Line);$/;"	v
@@ -100,12 +99,13 @@ MIMEHeader	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $this-
 MIMEHeader	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $this->MIMEHeader = $this->createHeader();$/;"	v
 MIMEHeader	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $this->MIMEHeader = '';$/;"	v
 MIMEHeader	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected $MIMEHeader = '';$/;"	v
-Mailer	core/Mailer.php	/^class Mailer $/;"	c
+Mailer	src/Contact/Mailer.php	/^class Mailer $/;"	c
 Mailer	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->Mailer = 'mail';$/;"	v
 Mailer	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->Mailer = 'qmail';$/;"	v
 Mailer	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->Mailer = 'sendmail';$/;"	v
 Mailer	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->Mailer = 'smtp';$/;"	v
 Mailer	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $Mailer = 'mail';$/;"	v
+Message	src/Contact/Message.php	/^class Message$/;"	c
 MessageDate	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $MessageDate = '';$/;"	v
 MessageID	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $MessageID = '';$/;"	v
 OAuth	vendor/phpmailer/phpmailer/src/OAuth.php	/^class OAuth$/;"	c
@@ -113,7 +113,6 @@ OAuth	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $OAuth = null$/;"	v
 PHPMAILER_LANG	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $PHPMAILER_LANG = [$/;"	v
 PHPMailer	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^class PHPMailer$/;"	c
 POP3	vendor/phpmailer/phpmailer/src/POP3.php	/^class POP3$/;"	c
-Parsedown	controllers/ArticleController.php	/^        $Parsedown = new Parsedown();$/;"	v
 Parsedown	vendor/erusev/parsedown/Parsedown.php	/^class Parsedown$/;"	c
 Password	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $Password = '';$/;"	v
 Port	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $Port = 25;$/;"	v
@@ -125,8 +124,7 @@ ReplyTo	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->ReplyTo = 
 ReplyTo	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected $ReplyTo = [];$/;"	v
 ReplyToQueue	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->ReplyToQueue = [];$/;"	v
 ReplyToQueue	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected $ReplyToQueue = [];$/;"	v
-Request	core/Request.php	/^class Request$/;"	c
-Router	core/Router.php	/^class Router$/;"	c
+Router	frame/Router.php	/^class Router$/;"	c
 SMTP	vendor/phpmailer/phpmailer/src/SMTP.php	/^class SMTP$/;"	c
 SMTPAuth	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $SMTPAuth = false;$/;"	v
 SMTPAutoTLS	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $SMTPAutoTLS = true;$/;"	v
@@ -153,15 +151,18 @@ Timeout	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $this->Timeout = $time
 Timeout	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public $Timeout = 300;$/;"	v
 UseSendmailOptions	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $UseSendmailOptions = true;$/;"	v
 Username	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $Username = '';$/;"	v
+Validator	src/Contact/Validator.php	/^class Validator$/;"	c
 WordWrap	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $WordWrap = 0;$/;"	v
 XMailer	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $XMailer = '';$/;"	v
-__construct	core/App.php	/^    function __construct()$/;"	f
-__construct	core/Router.php	/^    function __construct($uri, $app)$/;"	f
+__construct	frame/Router.php	/^    function __construct()$/;"	f
+__construct	src/Contact/Mailer.php	/^    function __construct($message)$/;"	f
+__construct	src/Contact/Message.php	/^    function __construct()$/;"	f
+__construct	src/Contact/Validator.php	/^    function __construct(Message $message)$/;"	f
 __construct	vendor/phpmailer/phpmailer/src/OAuth.php	/^    public function __construct($options)$/;"	f
 __construct	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function __construct($exceptions = null)$/;"	f
 __destruct	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function __destruct()$/;"	f
 _mime_types	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public static function _mime_types($ext = '')$/;"	f
-ac	public/index.php	/^    $ac = new ArticleController;$/;"	v
+ac	public/index.php	/^    $ac = new App\\Article\\Controller;$/;"	v
 action_function	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public $action_function = '';$/;"	v
 add	vendor/composer/ClassLoader.php	/^    public function add($prefix, $paths, $prepend = false)$/;"	f
 addAddress	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function addAddress($address, $name = '')$/;"	f
@@ -199,7 +200,6 @@ alternativeExists	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public func
 announce	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $announce = $this->get_lines();$/;"	v
 apcuPrefix	vendor/composer/ClassLoader.php	/^        $this->apcuPrefix = function_exists('apcu_fetch') && filter_var(ini_get('apc.enabled'), FILTER_VALIDATE_BOOLEAN) ? $apcuPrefix : null;$/;"	v
 apcuPrefix	vendor/composer/ClassLoader.php	/^    private $apcuPrefix;$/;"	v
-app	public/index.php	/^$app = new App;$/;"	v
 attachAll	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected function attachAll($disposition_type, $boundary)$/;"	f
 attachment	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->attachment = [];$/;"	v
 attachment	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected $attachment = [];$/;"	v
@@ -243,6 +243,8 @@ blockSetextHeader	vendor/erusev/parsedown/Parsedown.php	/^    protected function
 blockTable	vendor/erusev/parsedown/Parsedown.php	/^    protected function blockTable($Line, array $Block = null)$/;"	f
 blockTableContinue	vendor/erusev/parsedown/Parsedown.php	/^    protected function blockTableContinue($Line, array $Block)$/;"	f
 blockTypes	vendor/erusev/parsedown/Parsedown.php	/^            $blockTypes = $this->unmarkedBlockTypes;$/;"	v
+body	src/Contact/Message.php	/^            $this->body = $_POST['body'];$/;"	v
+body	src/Contact/Message.php	/^    public $body;$/;"	v
 body	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                    $body = $parts[1];$/;"	v
 body	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                    $body = file_get_contents($signed);$/;"	v
 body	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $body = '';$/;"	v
@@ -272,9 +274,9 @@ bytes	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $bytes = '';$/;"	v
 c	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $c = $string[$i];$/;"	v
 callbacks	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $callbacks = [];$/;"	v
 canonicalizedHeaders	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $canonicalizedHeaders = $this->DKIM_HeaderC($/;"	v
-captcha_success	controllers/ContactController.php	/^        $captcha_success=json_decode($verify);$/;"	v
+captcha_success	src/Contact/Validator.php	/^        $captcha_success = json_decode($verify);$/;"	v
 catchWarning	vendor/phpmailer/phpmailer/src/POP3.php	/^    protected function catchWarning($errno, $errstr, $errfile, $errline)$/;"	f
-cc	public/index.php	/^    $cc = new ContactController;$/;"	v
+cc	public/index.php	/^    $cc = new App\\Contact\\Controller();$/;"	v
 cc	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $this->cc = [];$/;"	v
 cc	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected $cc = [];$/;"	v
 cell	vendor/erusev/parsedown/Parsedown.php	/^                $cell = trim($cell);$/;"	v
@@ -282,9 +284,13 @@ challenge	vendor/phpmailer/phpmailer/src/SMTP.php	/^                $challenge =
 charSet	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $charSet = $this->CharSet;$/;"	v
 charset	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $charset = $this->CharSet;$/;"	v
 charset	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $charset = static::CHARSET_ASCII;$/;"	v
-checkRecaptcha	controllers/ContactController.php	/^    private function checkRecaptcha(){$/;"	f
+checkBody	src/Contact/Validator.php	/^    public function checkBody()$/;"	f
+checkEmail	src/Contact/Validator.php	/^    public function checkEmail()$/;"	f
+checkName	src/Contact/Validator.php	/^    public function checkName()$/;"	f
+checkRecaptcha	src/Contact/Validator.php	/^    public function checkRecaptcha()$/;"	f
 checkResponse	vendor/phpmailer/phpmailer/src/POP3.php	/^    protected function checkResponse($string)$/;"	f
-checkSubmit	controllers/ContactController.php	/^    private function checkSubmit() {$/;"	f
+checkSubject	src/Contact/Validator.php	/^    public function checkSubject()$/;"	f
+checkSubmit	src/Contact/Controller.php	/^    private function checkSubmit() {$/;"	f
 chunk	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $chunk = base64_encode($chunk);$/;"	v
 chunk	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $chunk = mb_substr($str, $i, $offset, $this->CharSet);$/;"	v
 cid	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                    $cid = substr(hash('sha256', $data), 0, 32) . '@phpmailer.0'; \/\/ RFC2392 S 2$/;"	v
@@ -321,7 +327,7 @@ connected	vendor/phpmailer/phpmailer/src/POP3.php	/^            $this->connected
 connected	vendor/phpmailer/phpmailer/src/POP3.php	/^    protected $connected = false;$/;"	v
 connected	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function connected()$/;"	f
 contentType	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $contentType = $this->ContentType;$/;"	v
-context	controllers/ContactController.php	/^        $context  = stream_context_create($options);$/;"	v
+context	src/Contact/Validator.php	/^        $context  = stream_context_create($options);$/;"	v
 copiedHeaderFields	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $copiedHeaderFields = ' z=';$/;"	v
 copiedHeaderFields	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $copiedHeaderFields = '';$/;"	v
 copiedHeaders	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $copiedHeaders = [];$/;"	v
@@ -334,12 +340,12 @@ currentHeaderLabel	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^              
 currentHeaderLabel	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $currentHeaderLabel = '';$/;"	v
 currentHeaderValue	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $currentHeaderValue = $matches[2];$/;"	v
 currentHeaderValue	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $currentHeaderValue = '';$/;"	v
-data	controllers/ContactController.php	/^        $data = array($/;"	v
+data	src/Contact/Validator.php	/^        $data = array($/;"	v
 data	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                        $data = base64_decode($match[3]);$/;"	v
 data	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                        $data = rawurldecode($match[3]);$/;"	v
 data	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $data = '';$/;"	v
 data	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function data($msg_data)$/;"	f
-dd	core/helpers.php	/^function dd($data) {$/;"	f
+dd	frame/helpers.php	/^function dd($data)$/;"	f
 debug_level	vendor/phpmailer/phpmailer/src/POP3.php	/^        $debug_level = 0$/;"	v
 dec	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $dec = hexdec($hex);$/;"	v
 definition	vendor/erusev/parsedown/Parsedown.php	/^                $definition = strlen($matches[1]) ? $matches[1] : $Element['text'];$/;"	v
@@ -347,7 +353,7 @@ definition	vendor/erusev/parsedown/Parsedown.php	/^                $definition =
 definition	vendor/erusev/parsedown/Parsedown.php	/^                $definition = strtolower($definition);$/;"	v
 detail	vendor/phpmailer/phpmailer/src/SMTP.php	/^            $detail = preg_replace($/;"	v
 detail	vendor/phpmailer/phpmailer/src/SMTP.php	/^            $detail = substr($this->last_reply, 4);$/;"	v
-direct	core/Router.php	/^    public function direct()$/;"	f
+direct	frame/Router.php	/^    public function direct()$/;"	f
 directory	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                        $directory = '';$/;"	v
 directory	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                    $directory = dirname($url);$/;"	v
 disconnect	vendor/phpmailer/phpmailer/src/POP3.php	/^    public function disconnect()$/;"	f
@@ -377,6 +383,8 @@ edebug	vendor/phpmailer/phpmailer/src/SMTP.php	/^    protected function edebug($
 element	vendor/erusev/parsedown/Parsedown.php	/^            $element = strtolower($matches[1]);$/;"	v
 element	vendor/erusev/parsedown/Parsedown.php	/^    protected function element(array $Element)$/;"	f
 elements	vendor/erusev/parsedown/Parsedown.php	/^    protected function elements(array $Elements)$/;"	f
+email	src/Contact/Message.php	/^            $this->email = $_POST['email'];$/;"	v
+email	src/Contact/Message.php	/^    public $email;$/;"	v
 email	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                    $email = trim(str_replace('>', '', $email));$/;"	v
 emphasis	vendor/erusev/parsedown/Parsedown.php	/^            $emphasis = 'em';$/;"	v
 emphasis	vendor/erusev/parsedown/Parsedown.php	/^            $emphasis = 'strong';$/;"	v
@@ -512,11 +520,12 @@ getTimeout	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function getTime
 getToAddresses	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function getToAddresses()$/;"	f
 getToken	vendor/phpmailer/phpmailer/src/OAuth.php	/^    protected function getToken()$/;"	f
 getTranslations	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function getTranslations()$/;"	f
-getUri	core/Request.php	/^    public function getUri()$/;"	f
 getUseIncludePath	vendor/composer/ClassLoader.php	/^    public function getUseIncludePath()$/;"	f
 getVerp	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function getVerp()$/;"	f
 get_lines	vendor/phpmailer/phpmailer/src/SMTP.php	/^    protected function get_lines()$/;"	f
 goodAttribute	vendor/erusev/parsedown/Parsedown.php	/^        static $goodAttribute = '\/^[a-zA-Z0-9][a-zA-Z0-9-_]*+$\/';$/;"	v
+grade	src/Contact/Validator.php	/^            $this->grade = 'failed';$/;"	v
+grade	src/Contact/Validator.php	/^    public $grade = 'passed';$/;"	v
 has8bitChars	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function has8bitChars($text)$/;"	f
 hasLineLongerThanMax	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public static function hasLineLongerThanMax($str)$/;"	f
 hasMultiBytes	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function hasMultiBytes($str)$/;"	f
@@ -543,7 +552,7 @@ helo_rply	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $this->helo_rply = $
 helo_rply	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $this->helo_rply = null;$/;"	v
 helo_rply	vendor/phpmailer/phpmailer/src/SMTP.php	/^    protected $helo_rply;$/;"	v
 hex	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $hex = substr($encodedText, $maxLength - $lookBack + $encodedCharPos + 1, 2);$/;"	v
-highlight	core/helpers.php	/^function highlight($page, $navItem) {$/;"	f
+highlight	frame/helpers.php	/^function highlight($page, $navItem)$/;"	f
 hmac	vendor/phpmailer/phpmailer/src/SMTP.php	/^    protected function hmac($data, $key)$/;"	f
 host	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $host = $hostinfo[2];$/;"	v
 host	vendor/phpmailer/phpmailer/src/POP3.php	/^        $this->host = $host;$/;"	v
@@ -624,6 +633,10 @@ lasterror	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $lasterror 
 lastexception	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                    $lastexception = $exc;$/;"	v
 lastexception	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $lastexception = null;$/;"	v
 lelen	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $lelen = strlen(static::$LE);$/;"	v
+len	src/Contact/Validator.php	/^        $len = strlen($this->message->body);$/;"	v
+len	src/Contact/Validator.php	/^        $len = strlen($this->message->email);$/;"	v
+len	src/Contact/Validator.php	/^        $len = strlen($this->message->name);$/;"	v
+len	src/Contact/Validator.php	/^        $len = strlen($this->message->subject);$/;"	v
 len	vendor/erusev/parsedown/Parsedown.php	/^        $len = strlen($needle);$/;"	v
 len	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                                $len = $this->utf8CharBoundary($word, $len);$/;"	v
 len	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                            $len = $space_left;$/;"	v
@@ -655,11 +668,10 @@ lines_out	vendor/phpmailer/phpmailer/src/SMTP.php	/^            $lines_out = [];
 list	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $list = explode(',', $addrstr);$/;"	v
 list	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $list = imap_rfc822_parse_adrlist($addrstr, '');$/;"	v
 listStart	vendor/erusev/parsedown/Parsedown.php	/^                $listStart = stristr($matches[0], '.', true);$/;"	v
-load	controllers/ArticleController.php	/^    public function load($page) {$/;"	f
-load	controllers/ContactController.php	/^    public function load() {$/;"	f
+load	src/Article/Controller.php	/^    public function load($page) {$/;"	f
+load	src/Contact/Controller.php	/^    public function load() {$/;"	f
 loadClass	vendor/composer/ClassLoader.php	/^    public function loadClass($class)$/;"	f
 loadClassLoader	vendor/composer/autoload_real.php	/^    public static function loadClassLoader($class)$/;"	f
-loadPages	core/App.php	/^    private function loadPages()$/;"	f
 loader	vendor/composer/autoload_real.php	/^    private static $loader;$/;"	v
 logicalPathPsr0	vendor/composer/ClassLoader.php	/^            $logicalPathPsr0 = strtr($class, '_', DIRECTORY_SEPARATOR) . $ext;$/;"	v
 logicalPathPsr0	vendor/composer/ClassLoader.php	/^            $logicalPathPsr0 = substr($logicalPathPsr4, 0, $pos + 1)$/;"	v
@@ -668,7 +680,7 @@ login	vendor/phpmailer/phpmailer/src/POP3.php	/^    public function login($usern
 login_result	vendor/phpmailer/phpmailer/src/POP3.php	/^            $login_result = $this->login($this->username, $this->password);$/;"	v
 lookBack	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $lookBack = 0;$/;"	v
 lookBack	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $lookBack = 3;$/;"	v
-mail	core/Mailer.php	/^        $mail = new PHPMailer(true);$/;"	v
+mail	src/Contact/Mailer.php	/^        $mail = new PHPMailer(true);$/;"	v
 mail	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $mail = @popen($sendmail, 'w');$/;"	v
 mail	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $mail = @popen($sendmail, 'w');$/;"	v
 mail	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function mail($from)$/;"	f
@@ -676,7 +688,8 @@ mailHeader	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $this->mai
 mailHeader	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected $mailHeader = '';$/;"	v
 mailPassthru	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    private function mailPassthru($to, $subject, $body, $header, $params)$/;"	f
 mailSend	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected function mailSend($header, $body)$/;"	f
-mailer	controllers/ContactController.php	/^                $mailer = new Mailer;$/;"	v
+mailer	src/Contact/Controller.php	/^                $mailer = new Mailer($this->message);$/;"	v
+mailer	tests/mail.php	/^$mailer = new Message_Mailer($message);$/;"	v
 map	vendor/composer/autoload_real.php	/^            $map = require __DIR__ . '\/autoload_namespaces.php';$/;"	v
 map	vendor/composer/autoload_real.php	/^            $map = require __DIR__ . '\/autoload_psr4.php';$/;"	v
 marker	vendor/erusev/parsedown/Parsedown.php	/^            $marker = $excerpt[0];$/;"	v
@@ -706,6 +719,14 @@ maxlen	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $maxlen = stat
 maxlen	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $maxlen = static::MAX_LINE_LENGTH - $overhead;$/;"	v
 mb_length	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $mb_length = mb_strlen($str, $this->CharSet);$/;"	v
 mb_pathinfo	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public static function mb_pathinfo($path, $options = null)$/;"	f
+message	src/Contact/Controller.php	/^        $this->message = new Message;$/;"	v
+message	src/Contact/Controller.php	/^    public $message;$/;"	v
+message	src/Contact/Mailer.php	/^        $this->message = $message;$/;"	v
+message	src/Contact/Mailer.php	/^    public $message;$/;"	v
+message	src/Contact/Validator.php	/^        $this->message = $message;$/;"	v
+message	src/Contact/Validator.php	/^    private $message;$/;"	v
+message	tests/mail-val.php	/^$message = new Message;$/;"	v
+message	tests/mail.php	/^$message = new Message;$/;"	v
 message	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                        $message = preg_replace($/;"	v
 message	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                    $message = str_replace($/;"	v
 message	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $message = substr($message, 0, -$lelen);$/;"	v
@@ -722,6 +743,8 @@ mimes	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $mimes = [$/;"	v
 missingClasses	vendor/composer/ClassLoader.php	/^    private $missingClasses = array();$/;"	v
 msgHTML	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function msgHTML($message, $basedir = '', $advanced = false)$/;"	f
 myXmailer	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $myXmailer = trim($this->XMailer);$/;"	v
+name	src/Contact/Message.php	/^            $this->name = $_POST['name'];$/;"	v
+name	src/Contact/Message.php	/^    public $name;$/;"	v
 name	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $name = $attachment[2];$/;"	v
 name	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $name = $filename;$/;"	v
 name	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $name = '',$/;"	v
@@ -752,30 +775,27 @@ offset	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $offset = 
 offset	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $offset = 0;$/;"	v
 old_from	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $old_from = ini_get('sendmail_from');$/;"	v
 opad	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $opad = str_pad('', $bytelen, chr(0x5c));$/;"	v
-options	controllers/ContactController.php	/^        $options = array($/;"	v
+options	src/Contact/Validator.php	/^        $options = array($/;"	v
 options	vendor/phpmailer/phpmailer/get_oauth_token.php	/^        $options = [$/;"	v
 options	vendor/phpmailer/phpmailer/get_oauth_token.php	/^$options = [];$/;"	v
 options	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $options = $this->SMTPOptions;$/;"	v
 ord	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $ord = ord($txt[$i]);$/;"	v
 overhead	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $overhead = 8 + strlen($charset);$/;"	v
-page	core/Router.php	/^        $page = 'about';$/;"	v
+page	frame/Router.php	/^        $page = 'about';$/;"	v
 page	public/index.php	/^$page = $router->direct();$/;"	v
-pages	config/pages.php	/^$pages = array($/;"	v
-pages	core/App.php	/^        $pages = require('config\/pages.php');$/;"	v
-pages	core/App.php	/^        $this->pages = $this->loadPages();$/;"	v
-pages	core/App.php	/^    public $pages;$/;"	v
-pages	core/Router.php	/^        $this->pages = $app->pages;$/;"	v
-pages	core/Router.php	/^    private $pages;$/;"	v
+pages	frame/Router.php	/^        $this->pages = require('frame\/pages.php');$/;"	v
+pages	frame/Router.php	/^    private $pages;$/;"	v
+pages	frame/pages.php	/^$pages = array($/;"	v
 paragraph	vendor/erusev/parsedown/Parsedown.php	/^    protected function paragraph($Line)$/;"	f
 params	vendor/phpmailer/phpmailer/get_oauth_token.php	/^$params = [$/;"	v
 params	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $params = sprintf('-f%s', $this->Sender);$/;"	v
 params	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $params = [$kind, $address, $name];$/;"	v
 params	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $params = null;$/;"	v
-parentDir	core/bootstrap.php	/^$parentDir = '\/var\/www\/mp';$/;"	v
 parse	vendor/erusev/parsedown/Parsedown.php	/^    function parse($text)$/;"	f
 parseAddresses	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public static function parseAddresses($addrstr, $useimap = true)$/;"	f
 parseHelloFields	vendor/phpmailer/phpmailer/src/SMTP.php	/^    protected function parseHelloFields($type)$/;"	f
 parsedHeaders	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $parsedHeaders = [];$/;"	v
+parser	src/Article/Controller.php	/^        $parser = new \\Parsedown();$/;"	v
 part	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                            $part = substr($word, 0, $len);$/;"	v
 part	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                        $part = substr($word, 0, $len);$/;"	v
 parts	vendor/erusev/parsedown/Parsedown.php	/^                $parts = explode("\\t", $line);$/;"	v
@@ -844,7 +864,8 @@ quit	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function quit($close_o
 ratio	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $ratio = $mb_length \/ strlen($str);$/;"	v
 rcpt	vendor/phpmailer/phpmailer/src/SMTP.php	/^            $rcpt = 'RCPT TO:<' . $address . '> NOTIFY=' . implode(',', $notify);$/;"	v
 rcpt	vendor/phpmailer/phpmailer/src/SMTP.php	/^            $rcpt = 'RCPT TO:<' . $address . '>';$/;"	v
-recaptcha	controllers/ContactController.php	/^            $recaptcha = $this->checkRecaptcha();$/;"	v
+recaptcha	src/Contact/Message.php	/^    public $recaptcha;$/;"	v
+recatcpha	src/Contact/Message.php	/^            $this->recatcpha = $_POST['g-recaptcha-response'];$/;"	v
 recipient	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function recipient($address, $dsn = '')$/;"	f
 recordLastTransactionID	vendor/phpmailer/phpmailer/src/SMTP.php	/^    protected function recordLastTransactionID()$/;"	f
 redirectUri	vendor/phpmailer/phpmailer/get_oauth_token.php	/^$redirectUri = (isset($_SERVER['HTTPS']) ? 'https:\/\/' : 'http:\/\/') . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'];$/;"	v
@@ -855,9 +876,8 @@ remainder	vendor/erusev/parsedown/Parsedown.php	/^            $remainder = subst
 remainder	vendor/erusev/parsedown/Parsedown.php	/^        $remainder = $Excerpt['text'];$/;"	v
 renamed_langcodes	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $renamed_langcodes = [$/;"	v
 reply	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $reply = $this->getLastReply();$/;"	v
-request	public/index.php	/^$request = new Request;$/;"	v
 reset	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function reset()$/;"	f
-response	controllers/ContactController.php	/^        $response = $_POST["g-recaptcha-response"];$/;"	v
+response	src/Contact/Validator.php	/^        $response = $this->message->recaptcha;$/;"	v
 response	vendor/phpmailer/phpmailer/src/POP3.php	/^        $response = fgets($this->pop_conn, $size);$/;"	v
 response	vendor/phpmailer/phpmailer/src/SMTP.php	/^                $response = $username . ' ' . $this->hmac($challenge, $password);$/;"	v
 result	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $result = $this->mailPassthru($toAddr, $this->Subject, $body, $header, $params);$/;"	v
@@ -877,7 +897,7 @@ result	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $result = $this->sendCo
 result	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $result = fwrite($this->smtp_conn, $data);$/;"	v
 ret	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $ret = ['dirname' => '', 'basename' => '', 'extension' => '', 'filename' => ''];$/;"	v
 rfcDate	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public static function rfcDate()$/;"	f
-router	public/index.php	/^$router = new Router($uri, $app);$/;"	v
+router	public/index.php	/^$router = new Frame\\Router();$/;"	v
 row	vendor/erusev/parsedown/Parsedown.php	/^            $row = $Line['text'];$/;"	v
 row	vendor/erusev/parsedown/Parsedown.php	/^            $row = trim($row);$/;"	v
 row	vendor/erusev/parsedown/Parsedown.php	/^            $row = trim($row, '|');$/;"	v
@@ -895,7 +915,7 @@ secure	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $secure = $thi
 secureHeader	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function secureHeader($str)$/;"	f
 selR	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $selR = [$this->smtp_conn];$/;"	v
 selW	vendor/phpmailer/phpmailer/src/SMTP.php	/^        $selW = null;$/;"	v
-send	core/Mailer.php	/^    public function send() {$/;"	f
+send	src/Contact/Mailer.php	/^    public function send()$/;"	f
 send	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function send()$/;"	f
 sendAndMail	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function sendAndMail($from)$/;"	f
 sendCommand	vendor/phpmailer/phpmailer/src/SMTP.php	/^    protected function sendCommand($command, $commandstring, $expect)$/;"	f
@@ -988,15 +1008,17 @@ string	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $string = 
 stripTrailingWSP	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public static function stripTrailingWSP($text)$/;"	f
 subPath	vendor/composer/ClassLoader.php	/^                $subPath = substr($subPath, 0, $lastPos);$/;"	v
 subPath	vendor/composer/ClassLoader.php	/^            $subPath = $class;$/;"	v
+subject	src/Contact/Message.php	/^            $this->subject = $_POST['subject'];$/;"	v
+subject	src/Contact/Message.php	/^    public $subject;$/;"	v
 subject	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $subject = $this->encodeHeader($this->secureHeader($subject));$/;"	v
 subject	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $subject = $this->secureHeader($subject);$/;"	v
-submitted	controllers/ContactController.php	/^        $submitted = $this->checkSubmit(); $/;"	v
+submitted	src/Contact/Controller.php	/^        $submitted = $this->checkSubmit(); $/;"	v
+submitted	src/Contact/Message.php	/^            $this->submitted = strip_tags($_POST['submitted']);$/;"	v
+submitted	src/Contact/Message.php	/^    public $submitted;$/;"	v
 tempheaders	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $tempheaders = $this->MIMEHeader;$/;"	v
-text	controllers/ArticleController.php	/^        $text = $Parsedown->text($text); $/;"	v
-text	controllers/ArticleController.php	/^        $text = file_get_contents('..\/views\/articles\/' . $page . '.mkd'); $/;"	v
-text	controllers/ContactController.php	/^        $text = file_get_contents('..\/views\/contact\/'.$view.'.php');$/;"	v
 text	public/index.php	/^    $text = $ac->load($page);$/;"	v
-text	public/index.php	/^    $text = $cc->load();$/;"	v
+text	src/Article/Controller.php	/^        $text = $parser->text($text); $/;"	v
+text	src/Article/Controller.php	/^        $text = file_get_contents('..\/views\/articles\/' . $page . '.mkd'); $/;"	v
 text	vendor/erusev/parsedown/Parsedown.php	/^                $text = substr($text, $Inline['position'] + $Inline['extent']);$/;"	v
 text	vendor/erusev/parsedown/Parsedown.php	/^            $text = $Element['rawHtml'];$/;"	v
 text	vendor/erusev/parsedown/Parsedown.php	/^            $text = $Element['text'];$/;"	v
@@ -1020,6 +1042,10 @@ text	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $text = str_replace(
 textLevelElements	vendor/erusev/parsedown/Parsedown.php	/^    protected $textLevelElements = array($/;"	v
 textLine	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function textLine($value)$/;"	f
 timeout	vendor/phpmailer/phpmailer/src/POP3.php	/^        $timeout = false,$/;"	v
+tips	public/index.php	/^    $tips = $cc->tips;$/;"	v
+tips	src/Contact/Controller.php	/^                $this->tips = $validator->tips;$/;"	v
+tips	src/Contact/Controller.php	/^    public $tips = array();$/;"	v
+tips	src/Contact/Validator.php	/^    public $tips = array();$/;"	v
 tls	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                        $tls = true;$/;"	v
 tls	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $tls = false; \/\/ Can't have SSL and TLS at the same time$/;"	v
 tls	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                $tls = true;$/;"	v
@@ -1047,11 +1073,9 @@ unmarkedText	vendor/erusev/parsedown/Parsedown.php	/^                $unmarkedTe
 unmarkedText	vendor/erusev/parsedown/Parsedown.php	/^            $unmarkedText = substr($text, 0, $markerPosition + 1);$/;"	v
 unmarkedText	vendor/erusev/parsedown/Parsedown.php	/^    protected function unmarkedText($text)$/;"	f
 unregister	vendor/composer/ClassLoader.php	/^    public function unregister()$/;"	f
-uri	core/Request.php	/^        $uri = trim($_SERVER['REQUEST_URI'], '\/');$/;"	v
-uri	core/Router.php	/^        $this->uri = $uri;$/;"	v
-uri	core/Router.php	/^    private $uri;$/;"	v
-uri	public/index.php	/^$uri = $request->getUri();$/;"	v
-url	controllers/ContactController.php	/^        $url = 'https:\/\/www.google.com\/recaptcha\/api\/siteverify';$/;"	v
+uri	frame/Router.php	/^        $this->uri = trim($_SERVER['REQUEST_URI'], '\/');$/;"	v
+uri	frame/Router.php	/^    private $uri;$/;"	v
+url	src/Contact/Validator.php	/^        $url = 'https:\/\/www.google.com\/recaptcha\/api\/siteverify';$/;"	v
 url	vendor/erusev/parsedown/Parsedown.php	/^                $url = 'mailto:' . $url;$/;"	v
 url	vendor/erusev/parsedown/Parsedown.php	/^            $url = $matches[0][0];$/;"	v
 url	vendor/erusev/parsedown/Parsedown.php	/^            $url = $matches[1];$/;"	v
@@ -1066,20 +1090,24 @@ username	vendor/phpmailer/phpmailer/src/POP3.php	/^        $this->username = $us
 username	vendor/phpmailer/phpmailer/src/POP3.php	/^        $username = '',$/;"	v
 username	vendor/phpmailer/phpmailer/src/POP3.php	/^    public $username;$/;"	v
 utf8CharBoundary	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public function utf8CharBoundary($encodedText, $maxLength)$/;"	f
+validate	src/Contact/Validator.php	/^    public function validate()$/;"	f
 validateAddress	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public static function validateAddress($address, $patternselect = null)$/;"	f
 validateEncoding	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    protected function validateEncoding($encoding)$/;"	f
+validator	src/Contact/Controller.php	/^            $validator = new Validator($this->message);$/;"	v
+validator	tests/mail-val.php	/^$validator = new Message_Validator($message);$/;"	v
 validator	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^    public static $validator = 'php';$/;"	v
 value	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $value = preg_replace('\/[ \\t]+\/', ' ', $value);$/;"	v
 value	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^        $value = trim($value);$/;"	v
 vendorDir	vendor/composer/autoload_classmap.php	/^$vendorDir = dirname(dirname(__FILE__));$/;"	v
 vendorDir	vendor/composer/autoload_namespaces.php	/^$vendorDir = dirname(dirname(__FILE__));$/;"	v
 vendorDir	vendor/composer/autoload_psr4.php	/^$vendorDir = dirname(dirname(__FILE__));$/;"	v
-verify	controllers/ContactController.php	/^        $verify = file_get_contents($url, false, $context);$/;"	v
+verify	src/Contact/Validator.php	/^        $verify = file_get_contents($url, false, $context);$/;"	v
 verify	vendor/phpmailer/phpmailer/src/SMTP.php	/^    public function verify($name)$/;"	f
-view	controllers/ContactController.php	/^                $view = 'failure';$/;"	v
-view	controllers/ContactController.php	/^                $view = 'success';$/;"	v
-view	controllers/ContactController.php	/^            $view = 'form';$/;"	v
+views	public/index.php	/^    $views = $cc->views;$/;"	v
+views	src/Contact/Controller.php	/^        $this->views = $views;$/;"	v
+views	src/Contact/Controller.php	/^    public $views = array();$/;"	v
 voidElements	vendor/erusev/parsedown/Parsedown.php	/^    protected $voidElements = array($/;"	v
+wc	src/Contact/Validator.php	/^        $wc = str_word_count($this->message->body);$/;"	v
 word	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                            $word = substr($word, $len);$/;"	v
 word	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^                        $word = (string) substr($word, $len);$/;"	v
 words	vendor/phpmailer/phpmailer/src/PHPMailer.php	/^            $words = explode(' ', $line);$/;"	v

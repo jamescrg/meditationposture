@@ -5,7 +5,7 @@
 /* body and links */
 /*------------------------------------*/
 
-body {
+body{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
     background-color: #484e48;
@@ -13,18 +13,18 @@ body {
 	color: #111;
 	}
 
-a {
+a, a:visited{
 	text-decoration: none;
     color: #355900;
 	}
 
-a:hover	{
+a:hover{
 	text-decoration: none;
 	color: #538c00;
 	}
 
 strong{
-	font-weight: 600;
+	font-weight: 800;
 	}
 
 /*-----------------------------------*/
@@ -61,7 +61,7 @@ div#nav{
     margin-top: 20px;
 }
 
-.col-sm-2, .col-sm-3, .col-sm4, .col-sm-8, .col-sm-9, .col-sm-10,.col-sm-11,.col-sm-12 {
+.col-sm-2, .col-sm-3, .col-sm4, .col-sm-8, .col-sm-9, .col-sm-10,.col-sm-11,.col-sm-12{
     padding-left: 8px;
     padding-right: 8px;
 }
@@ -72,14 +72,14 @@ div#nav{
     border-radius: 5px;
 }
 
-h1 {
+h1{
 	margin:0;
     margin-bottom: 18px;
 	padding: 0;
 	font-size: 26px;
 }
 
-h2 {
+h2{
 	margin:0;
     margin-top: 24px;
     margin-left: 10px;
@@ -88,7 +88,7 @@ h2 {
 	font-size: 22px;
 }
 
-h3 {
+h3{
 	margin:0;
     margin-left: 5px;
 	padding: 0;
@@ -96,13 +96,19 @@ h3 {
 }
 
 p{
-    margin-left: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 20px;
 	font-size: 18px;
 	text-align: justify;
 }
 
-blockquote {
+p a{
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+blockquote{
     margin: 20px 100px 20px 70px;
     border: none;
     padding: 0;
@@ -111,7 +117,7 @@ blockquote {
 }
 
 img.page-standard{
- margin: 10px auto;   
+ margin: 30px auto;   
  margin-bottom: 0px;
  height: auto; 
 }
@@ -154,12 +160,12 @@ img.page-standard{
     margin-bottom: 0px;
 }
 
-#nav ul {
+#nav ul{
 	padding: 0;
 	margin: 0;
 }
 
-#nav ul li a {
+#nav ul li a{
 	padding: 0;
 	margin: 0;
 }
@@ -170,6 +176,7 @@ div.center-image{
 
 div.caption{
     margin-top: 7px;
+    margin-bottom: 20px;
     text-align: center;
     font-size: 14px;
 	font-weight: 600;
@@ -178,7 +185,7 @@ div.caption{
 /*-----------------------------------*/
 /* sources */
 /*------------------------------------*/
-.sources {
+.sources{
     padding: 0;
 }
 
@@ -190,6 +197,9 @@ div.caption{
 /* contact */
 /*------------------------------------*/
 
+form#contactForm{
+    margin: 0 30px;
+}
 
 label.contact{
 	font-size: 18px;
@@ -218,4 +228,15 @@ input#subject{
 
 .form-control:focus{
 border-color: #538c00;
+}
+
+#tips{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+#tips p{
+    margin-bottom: 15px;
+	font-size: 14px;
+    color: darkred;
 }
