@@ -40,6 +40,12 @@
 
     <li class="sources">
 
+    Michael J. Gelb, <i>Body Learning</i> (Henry Holt and Company 1994)
+
+    </li>
+
+    <li class="sources">
+
     Omori Sogen, <i>An Introduction to Zen Training</i> (Tuttle Publishing 1996)
 
     </li>
@@ -59,6 +65,12 @@
     <li class="sources">
 
     Shunryu Suzuki, <i>Zen Mind, Beginner's Mind</i> (Shambhala 2011)
+
+    </li>
+
+    <li class="sources">
+
+    Thea Sawyer, <i>Put Your Back at Ease</i> (2013)
 
     </li>
 
