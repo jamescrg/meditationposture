@@ -25,7 +25,7 @@
     </div>
 
     <div class="form-group">
-    <div class="g-recaptcha" data-sitekey="6LeKgegUAAAAACdnoYhcA1zTTQA546aqZfgREZBf"></div>
+    <div class="g-recaptcha" data-sitekey="6LdQT6cZAAAAAHhajpRD43_rL97opZ2CvTYqXkc2"></div>
     </div>
 
     <button id="contactButton" type="submit" class="btn btn-primary mb-2">Submit</button>

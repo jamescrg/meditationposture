@@ -103,7 +103,7 @@ class Validator
         $url = 'https://www.google.com/recaptcha/api/siteverify';
 
         $data = array(
-            'secret' => '6LeKgegUAAAAAIjhowA5vnlBkATmStkfVnPtAoKG',
+            'secret' => '6LdQT6cZAAAAAN6lPjkrZMKuyUz2xSEuCBOKoVJL',
             'response' => $_POST["g-recaptcha-response"]
         );
 

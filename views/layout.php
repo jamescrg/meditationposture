@@ -4,17 +4,17 @@
     <head>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165756037-1"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165756037-2"></script>
         <script>
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'UA-165756037-1');
+          gtag('config', 'UA-165756037-2');
         </script>
 
         <meta charset="UTF-8" content="">
-	    <title>meditationposture.org</title>
+	    <title>meditationposture.net</title>
 		<link rel="shortcut icon" href="" />
 		<link rel="apple-touch-icon" href="" />
 
@@ -40,7 +40,7 @@
         <div class="row">
 
             <div class="col-sm-12">
-				<div id="title"><a href="about" id="titleLink">meditationposture.org</a></div>
+				<div id="title"><a href="about" id="titleLink">meditationposture.net</a></div>
             </div>
 
         </div>
