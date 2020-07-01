@@ -1,8 +1,8 @@
 #Arranging the Legs
 
-The starting point to establish a good meditation posture is figuring out how to arrange your legs. In general, the legs should be arranged in such a way that the knees are positioned below the back. This support the healthy alignment of the lower spine (see [Back](back)).
+The starting point to establish a good meditation posture is figuring out how to arrange your legs. The key principle here is that the knees should be below the hips. This supports the healthy alignment of the lower spine (see [Back](back)).
 
-How you position your legs will depend largely upon how much flexibility you have in your hips. Most people in modern, Western cultures are accustomed to sitting in chairs, and therefore have lost a lot of their natural flexibility. As a result, this page first presents some options for sitting in a chair before discussing more traditional meditation positions.
+There are many ways to arrange the legs in a comfortable manner so that the knees are below the hips. How you position your legs will depend largely upon how much flexibility you have in your legs. Most people in modern, Western cultures are accustomed to sitting in chairs, and therefore have lost a lot of their natural flexibility. As a result, this page first presents some options for sitting in a chair before discussing more traditional meditation positions.
 
 ##Sitting in a Chair
 
@@ -10,9 +10,7 @@ There is no denying that the chair is a valuable invention; its effect on human 
 
 You can sit in a chair for meditation in the same way that you sit in a chair for any other form of activity. If you can find a comfortable position, you can simply meditate in your chair. 
 
-On the other hand, many people find that sitting for meditation is more challenging than sitting for other types of activities. That is because in meditation the mind is not distracted by some interesting pursuit, and is therefore free to obsess over little bodily discomforts. These discomforts are always present, but they usually lurk below the threshold of conscious awareness, and so do not present a problem. In meditation, however, they come high apparent. As a result, it is often helpful to take special care to align the body in an efficient position so as to minimize discomfort.
-
-To that end, many people advise sitting in a chair without the use of a back rest. This seems like it would be <i>less</i> comfortable at first, but with some practice sitting upright without the back rest can actually be <i>more</i> comfortable than reclining. This is especially the case if the chair does not have an ergonomic design.
+If you are reclining in your chari, however, it is easy to lapse into dulness or sleep. To that end, many people advise sitting in a chair without the use of a back rest. This seems like it would be uncomfortable at first, but with some practice sitting upright without the back rest can actually be quite easy and maybe even preferrable. This is especially the case if the chair does not have an ergonomic design.
 
 There are many ways to set up a chair for mediation without using the back rest. Here are a few options:
 
@@ -20,13 +18,13 @@ There are many ways to set up a chair for mediation without using the back rest.
 2. Place a zafu or a cushion behind your lower back.
 3. Fold up a towel to create a wedge under your tail bone to tilt your pelvis forward.
 
-We are generally advised to keep the legs at 90 degrees when sitting in a chair. This may be good advice for sitting for long periods of time for productive work while using the back rest. But it's not the optimal way to arrange the legs for meditation. Instead, the thighs should be allowed to slope downward, so that the knees are below the hips. In order to make this possible, you may find it helpful to turn the thighs outward, and allow your feet to turn on their side. You may even want to cross your ankles. Gokhale talks about this extensively in her book (see "Sources") and provides some excellent illustrations.
+We are generally advised to keep the legs at 90 degrees when sitting in a chair. This may be good advice for sitting for long periods of time for productive work while using the back rest. But it's not necessarily the optimal way to arrange the legs if you are not using the back rest. Instead, the thighs should be allowed to slope downward, so that the knees are below the hips. In order to make this possible, you may find it helpful to turn the thighs outward, and allow your feet to turn on their side. You may even want to cross your ankles. Gokhale talks about this extensively in her book (see "Sources") and provides some excellent illustrations.
 
 ##Seiza
 
 Another way to sit is called seiza. The word "seiza" is Japanese, and refers to a traditional way of kneeling on the floor. This is not something we do very often in the West, and we tend to find it uncomfortable on the knees, but there are several ways to reduce and even eliminate that discomfort.
 
-If you have a zafu, one way to make seiza more comfortable is to place the zafu between your feet and sit on it. This arrangement allows the weight of the body to be supported by the cushion rather than the legs alone.
+If you have a zafu, one way to make seiza more comfortable is to place the zafu between your feet so that it can bear some of your weight. This arrangement takes a lot of pressure off the knees and feet.
 
 <div class="center-image"><img src="/images/sit-seiza-zafu.png" class="page-standard img-responsive" style="width: 400px;"></div>
 <div class="caption">Seiza on a zafu</div>
@@ -46,13 +44,14 @@ The key is to use a cushion to elevate the hips high enough to support the natur
 
 Many meditation practitioners use a simple round cushion called a "zafu". The term "zafu" is of Japanese origin and simply means "seat". Zafus were traditionally stuffed with reedmace (cattail) fiber, although in more recent times, they have been filled with kapok or buckwheat hulls. The most common option in the west is buckwheat hulls, which provide support that is firm but malleable. I've tried both kapok and buckwheat hull zafus, and I tend to prefer buckwheat hulls, because they are easily adjustable; you can add or remove filling to make the cushion higher or lower. 
 
-<div class="center-image"><img src="/images/zafu.png" class="page-standard img-responsive" style="width: 350px;"></div>
-<div class="caption">A buckwheat hull zafu</div>
+<div class="center-image"><img src="/images/zafu-scaled.png" class="page-standard img-responsive" style="width: 350px;"></div>
+<div class="caption">A typical zafu</div>
 
-The zafu pictured above is my oldest one, a gift from my mother, dating back to about 2005. It is filled with buckwheat hulls and sits rather tall at 4 3/4 inches. These days I tend to use a lower cushion, which is more suitable for the way that I sit now. You can also place folded towels under your zafu for extra height, which is very useful when sitting cross-legged or in Burmese (discussed in depth below). The setup depicted below provides a lot of height. It would be too high for sitting in one of the lotus postures, but it might serve someone well in sitting cross-legged.
+In the cross-legged position, you will need a zafu that is high enough to get your hips up higher than your crossed legs. There are several ways to achieve this. You can buy a tall zafu. You can stack a zafu on top of another zafu. You can put a support cushion under your zafu (a support cushion is a thin cushion, often square, that can be used to elevate your seat). Or you can simply fold a towel or two and place it under your existing cushion. Below is a picture of a zafu with a folded towel under it.
 
-<div class="center-image"><img src="/images/zafu-towels.png" class="page-standard img-responsive" style="width: 350px;"></div>
-<div class="caption">A zafu set up with towels</div>
+<div class="center-image"><img src="/images/zafu-towel.png" class="page-standard img-responsive" style="width: 350px;"></div>
+<div class="caption">A zafu with folded towel</div>
+
 
 ##Burmese
 
@@ -85,13 +84,13 @@ Half lotus is similar to quarter lotus, but instead of placing the top foot on t
 <div class="center-image"><img src="/images/sit-lotus-half.png" class="page-standard img-responsive" style="width: 500px;"></div>
 <div class="caption">Half Lotus</div>
 
-<i>Most importantly</i>, when getting into half or full lotus, it is important to bring the heel in toward the groin and close the knee before lifting the foot onto the thigh. This helps to assures that the knee joint is not subject to lateral pressure while the hip rotates open. 
+<i>Most importantly</i>, when getting into half or full lotus, bring the heel in toward the groin and close the knee before lifting the foot onto the thigh. This helps to assures that the knee joint is not subject to lateral pressure while the hip rotates open. 
 
 Before attempting half lotus, you should make sure you have developed sufficient hip flexibility. Forcing your legs into a lotus posture before you have attained the requisite flexiblity can do significant damage to the knee. See the section on [exercises](exercises) elsewhere in this guide for a description of some of the stretches helpful to developing the flexibility necessary for sitting comfortably in the lotus postures.
 
-One can sit in a “low” half lotus, where the foot rests on the lower thigh, or a “high” half lotus where the top foot rests on the upper thigh, closer to the crease of the hip. Generally, I find that the low half lotus allows my hips to feel more level, and is generally more comfortable. A high half lotus tends to extend the gluteal muscles under the hip of the top leg, which means I have less padding on that side of my backside. This can cause me to lean slightly to one side.
+One can sit in a “low” half lotus, where the foot rests on the inner thigh closer to the hamstring, or a “high” half lotus where the top foot rests on the upper thigh, closer into the crease of the hip near the top of the quadricep. Generally, I find that the low half lotus allows my hips to feel more level, and is generally more comfortable. A high half lotus tends to extend the gluteal muscles under the hip of the top leg, which means I have less padding on that side of my backside. This can cause me to lean slightly to one side.
 
-The bottom foot can rest under the knee of the opposite leg, which means that knee of the top leg may not rest directly on the floor. This generally hasn't been a problem for me. Also, in order to make sure the knees are coming down as far as possible, it is helpful to maintain some flexibility in the quads. I generally like to tuck the bottom foot back under the top thigh, right near the front edge of my cushion, in the space between the thigh and the floor. This allows both knees to descend as close as possible the floor, and allows me to sit on a slightly lower cushion while preserving the curvature in my lower back.
+The bottom foot should be tucked back under the top thigh, right near the front edge of the cushion, in the space between the thigh and the floor. This allows both knees to descend as close as possible the floor, and allows you to sit on a slightly lower cushion while preserving the curvature in the lower back.
 
 
 ##Full Lotus

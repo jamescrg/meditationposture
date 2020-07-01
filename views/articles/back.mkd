@@ -8,10 +8,7 @@ The most important ingredient in meditation posture is forward pelvic tilt. (Ait
 
 Having the pelvis tipped forward causes the belly to relax forward while the buttocks are pushed a little farther back. This relationship is a central part of traditional posture instruction in zen monasteries, where monks sit for  hours at a time.
 
->The belly sticks out in front, while the rear sticks out behind. Katsuki Sekida, former resident adviser to the Diamond Sangha, once sent out New Year cards with the greeting, “Belly forward, buttocks back.” With the spine thus correctly positioned, all else follows . . . (Aitken 14,15)
-
-<div class="center-image"><img src="/images/diagram.jpg" class="page-standard img-responsive" style="width: 500px;"></div>
-<div class="caption">The natural curvature of the spine (Sogen 1996)</div>
+>The belly sticks out in front, while the rear sticks out behind. Katsuki Sekida, [a respected zen teacher],  once sent out New Year cards with the greeting, “Belly forward, buttocks back.” With the spine thus correctly positioned, all else follows . . . (Aitken 14,15)
 
 ##Using a Cushion
 
@@ -22,4 +19,21 @@ In essence, the meditation cushion provides a measure of back support. By liftin
 ##Sit Toward the Front
 
 This is the reason why we are advised to sit on the forward portion of the cushion. Sitting toward the back of the cushion would be counterproductive, because it would cause the lower back to round. Sitting in the middle of the cushion would raise the body off the floor, provide a soft surface, and make room for the legs, but it wouldn't support the lower back by lifting the pelvis forward. Sitting toward the front of the cushion, on the other hand, brings the upper body upright and shifts the lumbar curve lower toward the tailbone. This eliminates tension in the mid back and subtly brings the chest and head into better alignment over the hips. 
+
+## A Note on the Shape of the Spine
+
+It is common to hear or read posture advice to the effect of "keep the straight spine" or "the back should be held straight like a stack of coins". This is fine advice to the extent that it encourages students not to slump. However, it should not be taken too literally. Most people's spines in the modern world have a certain amount of curvature.
+
+>The spine has four curves forming a double S, with the curves in the neck and lumbar moving in opposite directions to the curves in the thorax and sacrum . . . These four curves are immensely important for an animal that walks upright; they distribute the compressive stress that arises when the torso is vertical. The typical kyphotic curve of the thoracic spine is crated by the wedge-shaped thoracic vertebrae. (Clark Ch. 1)
+
+<div class="center-image"><img src="/images/posture-diagram-cropped-and-scaled.png" class="page-standard img-responsive"></div>
+<div class="caption">The natural curvature of the spine (Sogen 1996)</div>
+
+In addition, there is quite a bit of variability from one individual to another in terms of how much spinal curvature they exhibit. I have considerable curvature in my neck, thoracic spine, and lower back.
+
+>The amount of curve in each segment is highly variable. While you may have the same amount of curvature in the lumbar as an average spine, you probably don't have the same amount of curvature in all four segments. Very few people are average in all areas . . . Normally, lying down reduces the curves of a spine, but they are still there. (Clark Ch. 1)
+
+The point of posture is not to eliminate all of the curves of the spine, but to find a place of balance where musculature of the body has to perform minimal work to hold the torso and head upright. 
+
+> Posture is not an easy concept to define. It can refer to the alignment of the body's parts; or the average orientation of the body parts over time; or a particular position of the body . . . Another definition considers "good posture" to be the place where there is a compromise between minimizing stress on the joints while also minimizing the work done by the muscles . . . There is no static ideal that fits everybody . . . good posture could be defined as where the body expends the least amount of energy to remain balanced. (Clark Ch. 1)
 

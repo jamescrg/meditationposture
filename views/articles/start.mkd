@@ -1,26 +1,22 @@
 #Getting Started
 
-If you are eager to get started and would prefer not to wade through the rest of this site, try the following steps.
-
-I would also recommend reading the section regarding the <a href="back">lower back</a>. The central and most important principle of good posture is discussed in that section.
+If you are eager to get started and would prefer not to wade through the rest of this site, I would at least recommend reading the section regarding the <a href="back">lower back</a>. The central and most important principle of good posture is discussed in that section. Otherwise, here are the key points.
 
 <ol id="start">
 
-    <li>Get a zafu. You can buy one online. A zafu is simply a meditation cushion. They come in a wide variety of shapes and with different kinds of filing. You can spend hours just researching zafus.</li>
+    <li>Get a zafu. You can buy one online. A zafu is simply a meditation cushion. They come in a wide variety of shapes and with different kinds of filing. You can spend hours just researching zafus. Get one with buckwheat hull filling.</li>
 
-    <div class="center-image"><img src="/images/zafu.png" class="page-standard img-responsive" style="width: 350px;"></div>
+    <div class="center-image"><img src="/images/zafu-scaled.png" class="page-standard img-responsive" style="width: 350px;"></div>
     <div class="caption">A typical round zafu</div>
 
-    <li>Once you have your zafu, find a quiet place in your home for sitting, and put the zafu there on the floor. Sit down on the cushion and cross your legs. You'll want to sit toward the front of the cushion.</li>
+    <li>Once you have your zafu, find a quiet place in your home for sitting and put the zafu there on the floor. Sit down on the cushion and cross your legs. You'll want to sit toward the front of the cushion.</li>
 
     <li>Adjust the height of your zafu. If you find yourself slumping, it probably needs to be higher. You can fold a towel and place it under the zafu to gain more height. If you need still more height, add another towel.</li>
 
-    <div class="center-image"><img src="/images/zafu-towels.png" class="page-standard img-responsive" style="width: 350px;"></div>
-    <div class="caption">A zafu with two towels</div>
+    <div class="center-image"><img src="/images/zafu-towel.png" class="page-standard img-responsive" style="width: 350px;"></div>
+    <div class="caption">A zafu with folded towel</div>
 
     <li>Place your hands in your lap.</li>
-
-    <li>Try to feel the bones of your lower pelvis (there are two of them, called the sitz bones), where they contact the cushion. Your center of balance should be directly over, or just in front of, your sitz bones.</li>
 
     <li>Keep your chest neutral. Do not consciously lift your sternum.</li>
 
@@ -28,7 +24,7 @@ I would also recommend reading the section regarding the <a href="back">lower ba
 
     <li>Bring your chin slightly down. Keep the back of your neck long.</li>
 
-    <li>Relax as much as possible. You will still need to expend some amount of muscular effort in sitting upright, but in due time you will grow accustomed to the position, and that sense of effort will diminish.</li>
+    <li>Relax as much as possible.</li>
 
 </ol>
 

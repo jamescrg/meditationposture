@@ -34,7 +34,7 @@ strong{
 	margin: 20px 0 0 0;
     padding: 7px 0;
 	font-size: 30px;
-    background: #fffff8;
+    background: #fffff7;
     width: 340px;
     text-align: center;
     border-radius: 5px;
@@ -66,7 +66,7 @@ div#nav{
 }
 
 .panel-background{
-    background: #fffff8;
+    background: #fffff7;
 	padding: 24px 20px;
     border-radius: 5px;
 }
@@ -146,7 +146,7 @@ img.page-standard{
 	padding: 7px 0px;
 	font-size: 18px;
 	border: none;
-    background: #fffff8;
+    background: #fffff7;
 }
 
 #top-nav-menu-item{
@@ -185,11 +185,12 @@ div.caption{
 /* sources */
 /*------------------------------------*/
 .sources{
+    margin-left: 20px;
     padding: 0;
 }
 
 .sources li{
-    list-style-type: none;
+    /* list-style-type: none; */
 }
 
 /*-----------------------------------*/

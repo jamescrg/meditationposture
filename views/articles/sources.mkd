@@ -1,6 +1,12 @@
 #Suggestions for Further Reading##
 
-<ul class="sources">
+<ol class="sources">
+
+    <li class="sources">
+
+    Bernie Clark, <i>Your Spine Your Yoga</i> (Wild Strawberry Productions 2018)
+
+    </li>
 
     <li class="sources">
 
