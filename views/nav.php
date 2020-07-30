@@ -25,7 +25,7 @@
 	</li>
     
     <li class="list-group-item">
-		<a <?php highlight($page, 'back') ?> href="back">Lower Back</a>
+		<a <?php highlight($page, 'back') ?> href="back">Back</a>
 	</li>
     
     <li class="list-group-item">
@@ -44,7 +44,7 @@
 		<a <?php highlight($page, 'exercises') ?> href="exercises">Exercises</a>
 	</li>
  
-    <li class="list-group-item" id="bottom-nav-menu-item">
+    <li class="list-group-item">
 		<a <?php highlight($page, 'sources') ?> href="sources">Sources</a>
     </li>
 

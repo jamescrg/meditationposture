@@ -5,7 +5,6 @@
 set_include_path(get_include_path() . PATH_SEPARATOR . '/var/www/mp');
 set_include_path(get_include_path() . PATH_SEPARATOR . '/var/www/mp/src');
 
-
 // include autoloader for classes
 // -------------------------------------------------------
 // class include paths are based on PSR-4 and the composer autoloader

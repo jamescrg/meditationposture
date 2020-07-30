@@ -10,7 +10,7 @@ There is no denying that the chair is a valuable invention; its effect on human 
 
 You can sit in a chair for meditation in the same way that you sit in a chair for any other form of activity. If you can find a comfortable position, you can simply meditate in your chair. 
 
-If you are reclining in your chari, however, it is easy to lapse into dulness or sleep. To that end, many people advise sitting in a chair without the use of a back rest. This seems like it would be uncomfortable at first, but with some practice sitting upright without the back rest can actually be quite easy and maybe even preferrable. This is especially the case if the chair does not have an ergonomic design.
+If you are reclining in your chair, however, it is easy to lapse into dullness or sleep. To that end, many people advise sitting in a chair without the use of a back rest. This seems like it would be uncomfortable at first, but with some practice sitting upright without the back rest can actually be quite easy and maybe even preferable. This is especially the case if the chair does not have an ergonomic design.
 
 There are many ways to set up a chair for mediation without using the back rest. Here are a few options:
 
@@ -44,7 +44,7 @@ The key is to use a cushion to elevate the hips high enough to support the natur
 
 Many meditation practitioners use a simple round cushion called a "zafu". The term "zafu" is of Japanese origin and simply means "seat". Zafus were traditionally stuffed with reedmace (cattail) fiber, although in more recent times, they have been filled with kapok or buckwheat hulls. The most common option in the west is buckwheat hulls, which provide support that is firm but malleable. I've tried both kapok and buckwheat hull zafus, and I tend to prefer buckwheat hulls, because they are easily adjustable; you can add or remove filling to make the cushion higher or lower. 
 
-<div class="center-image"><img src="/images/zafu-scaled.png" class="page-standard img-responsive" style="width: 350px;"></div>
+<div class="center-image"><img src="/images/zafu.png" class="page-standard img-responsive" style="width: 350px;"></div>
 <div class="caption">A typical zafu</div>
 
 In the cross-legged position, you will need a zafu that is high enough to get your hips up higher than your crossed legs. There are several ways to achieve this. You can buy a tall zafu. You can stack a zafu on top of another zafu. You can put a support cushion under your zafu (a support cushion is a thin cushion, often square, that can be used to elevate your seat). Or you can simply fold a towel or two and place it under your existing cushion. Below is a picture of a zafu with a folded towel under it.
@@ -79,7 +79,7 @@ In fact, quarter lotus closely resembles the yoga posture called siddhasana or �
 
 ##Half Lotus
 
-Half lotus is similar to quarter lotus, but instead of placing the top foot on the opposite calf, the foot is placed on the thigh. Half lotus requires more hip flexibility, and also demands considerable flexibility from the feet. When I first started sitting in this position, I found that my top foot felt very “stretched out” after each practice session. This sensation went away after I developed some more flexibility in the front of my ankles. Now, my feet are quite comfortable in this position. It is helpful to alternate sides, sitting for one session with the right foot on top, then for the next session with the left on top.
+Half lotus is similar to quarter lotus, but instead of placing the top foot on the opposite calf, the foot is placed on the thigh. Half lotus requires more hip flexibility, and also (depending on how it is done) may demand considerable flexibility from the feet. When I first started sitting in this position, I found that my top foot felt very “stretched out” after each practice session. This sensation went away after I developed some more flexibility in the front of my ankles. Now, my feet are quite comfortable in this position. It is helpful to alternate sides, sitting for one session with the right foot on top, then for the next session with the left on top.
 
 <div class="center-image"><img src="/images/sit-lotus-half.png" class="page-standard img-responsive" style="width: 500px;"></div>
 <div class="caption">Half Lotus</div>
@@ -95,12 +95,14 @@ The bottom foot should be tucked back under the top thigh, right near the front 
 
 ##Full Lotus
 
-Full lotus is perhaps the most difficult meditation position for lay practitioners to attain. Unless one is sitting consistently for substantial periods of time every day, and/or doing consistent yoga to open the hips, it is difficult to maintain the level of flexibility necessary for sitting in full lotus for an extended length of time. Even someone who can easily get into the full lotus position will be uncomfortable remaining there for ten or twenty minutes at a time, much less for hours, until they have had some time practicing in the position in order to become acclimated. As one of my instructors once said, "I have no problem getting into full lotus. I just can't get out."
+Full lotus is perhaps the most difficult meditation position for lay practitioners to attain. Unless one is sitting consistently for substantial periods of time every day, and/or doing consistent yoga to open the hips, it is difficult to maintain the level of flexibility necessary for sitting in full lotus for an extended length of time. Even someone who can easily get into the full lotus position will be uncomfortable remaining there for ten or twenty minutes at a time, much less for hours, until they have had some time practicing in the position in order to become acclimated. A meditation teacher once told me, "I have no problem getting into full lotus. I just can't get out."
 
 <div class="center-image"><img src="/images/sit-lotus-full.png" class="page-standard img-responsive" style="width: 500px;"></div>
 <div class="caption">Full Lotus</div>
 
 The advantage of full lotus is that it raises the feet above the thighs, which allows the knees and thighs to rest directly on the ground. This means that very little elevation is needed to raise the seat and hips above the knees. As a result, full lotus feels compact and solid to those who are accustomed to sitting that way. Sitting on a lower cushion also allows the hands to rest more easily and securely in the lap, again improving the solidity of the posture. Also, for physiological reasons that I don't fully understand, full lotus provides amazing support for the lower back. Perhaps this is why full lotus is favored by zen monks, who sit in meditation for long hours each day.
+
+## The Bottom Line
 
 The important thing is to find a way of arranging the legs that works for the individual practitioner. Over time, it may be possible to develop the ability to sit comfortably in various forms of lotus. One should avoid the notion that there are more or less advanced sitting postures. The advanced sitting posture is the one that allows you to find comfort and minimize distraction. For someone who is new to the practice of meditation, trying to sit in full lotus is more likely to be a distraction and obstacle to the enjoyment of their practice, if not a cause of injury.
 

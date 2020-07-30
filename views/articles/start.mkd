@@ -4,9 +4,9 @@ If you are eager to get started and would prefer not to wade through the rest of
 
 <ol id="start">
 
-    <li>Get a zafu. You can buy one online. A zafu is simply a meditation cushion. They come in a wide variety of shapes and with different kinds of filing. You can spend hours just researching zafus. Get one with buckwheat hull filling.</li>
+    <li>Get a zafu. You can buy one online. A zafu is simply a meditation cushion. They come in a wide variety of shapes and with different kinds of filing. You can spend hours researching zafus. Get one with buckwheat hull filling.</li>
 
-    <div class="center-image"><img src="/images/zafu-scaled.png" class="page-standard img-responsive" style="width: 350px;"></div>
+    <div class="center-image"><img src="/images/zafu.png" class="page-standard img-responsive" style="width: 350px;"></div>
     <div class="caption">A typical round zafu</div>
 
     <li>Once you have your zafu, find a quiet place in your home for sitting and put the zafu there on the floor. Sit down on the cushion and cross your legs. You'll want to sit toward the front of the cushion.</li>

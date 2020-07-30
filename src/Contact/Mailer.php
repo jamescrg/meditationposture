@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Contact;
 
 use PHPMailer\PHPMailer\PHPMailer;
@@ -51,13 +52,20 @@ class Mailer
                                 .  $this->message->email .'<br><br>'
                                 . $this->message->body;
             $mail->AltBody = $mail->Body;
-            $mail->send();
+            if (!$mail->send()) {
+
+                dd($mail->ErrorInfo);
+
+            } else {
+
+                dd($mail->ErrorInfo);
+            }
 
         } catch (Exception $e) {
 
             return false;
 
-            //echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+            echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 
         }
 

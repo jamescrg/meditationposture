@@ -52,13 +52,13 @@ class Controller
 
                 $mailer = new Mailer($this->message);
                 $mailer->send();
-                
+
                 $views[] = 'views/contact/success.php';
 
             } else {
 
                 $views[] = 'views/contact/failure.php';
-                $views[] = 'views/contact/form.php';
+                /* $views[] = 'views/contact/form.php'; */
                 $this->tips = $validator->tips;
 
             }
@@ -66,7 +66,7 @@ class Controller
         } else {
 
             $views[] = 'views/contact/invitation.php';
-            $views[] = 'views/contact/form.php';
+            /* $views[] = 'views/contact/form.php'; */
 
         }
 

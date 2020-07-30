@@ -22,14 +22,16 @@ This is the reason why we are advised to sit on the forward portion of the cushi
 
 ## A Note on the Shape of the Spine
 
-It is common to hear or read posture advice to the effect of "keep the straight spine" or "the back should be held straight like a stack of coins". This is fine advice to the extent that it encourages students not to slump. However, it should not be taken too literally. Most people's spines in the modern world have a certain amount of curvature.
+It is common to hear or read posture advice to the effect of "keep the spine straight" or "the back should be held straight like a stack of coins". This is fine advice to the extent that it encourages students not to slump. However, it should not be taken too literally. Most people's spines in the modern world have a certain amount of curvature.
 
->The spine has four curves forming a double S, with the curves in the neck and lumbar moving in opposite directions to the curves in the thorax and sacrum . . . These four curves are immensely important for an animal that walks upright; they distribute the compressive stress that arises when the torso is vertical. The typical kyphotic curve of the thoracic spine is crated by the wedge-shaped thoracic vertebrae. (Clark Ch. 1)
+>The spine has four curves forming a double S, with the curves in the neck and lumbar moving in opposite directions to the curves in the thorax and sacrum . . . These four curves are immensely important for an animal that walks upright; they distribute the compressive stress that arises when the torso is vertical. The typical kyphotic curve of the thoracic spine is created by the wedge-shaped thoracic vertebrae. (Clark Ch. 1)
+
+The diagram below shows the four curves of the spine. Note the curve of the lower back and the opposite curve of the upper back, along with the curvature of the neck.
 
 <div class="center-image"><img src="/images/posture-diagram-cropped-and-scaled.png" class="page-standard img-responsive"></div>
 <div class="caption">The natural curvature of the spine (Sogen 1996)</div>
 
-In addition, there is quite a bit of variability from one individual to another in terms of how much spinal curvature they exhibit. I have considerable curvature in my neck, thoracic spine, and lower back.
+In addition, there is quite a bit of variability from one individual to another in terms of how much spinal curvature they exhibit. For example, I have considerable curvature in my neck, thoracic spine, and lower back.
 
 >The amount of curve in each segment is highly variable. While you may have the same amount of curvature in the lumbar as an average spine, you probably don't have the same amount of curvature in all four segments. Very few people are average in all areas . . . Normally, lying down reduces the curves of a spine, but they are still there. (Clark Ch. 1)
 
@@ -37,3 +39,4 @@ The point of posture is not to eliminate all of the curves of the spine, but to 
 
 > Posture is not an easy concept to define. It can refer to the alignment of the body's parts; or the average orientation of the body parts over time; or a particular position of the body . . . Another definition considers "good posture" to be the place where there is a compromise between minimizing stress on the joints while also minimizing the work done by the muscles . . . There is no static ideal that fits everybody . . . good posture could be defined as where the body expends the least amount of energy to remain balanced. (Clark Ch. 1)
 
+Establishing a gentle, comfortable curve in the lower back is the first step to developing a comfortable, sustainable posture on a cushion or in a chair.
