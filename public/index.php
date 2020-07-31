@@ -33,21 +33,9 @@ $page = $router->direct();
 // the controller then loads the list of relevant templates and 
 // provides them with the relevant data
 
-if ($page == "contact") {
-
-    $cc = new App\Contact\Controller();
-    $cc->load();
-    $tips = $cc->tips;
-    $views = $cc->views;
-
-} else {
-
-    $ac = new App\Article\Controller;
-    $text = $ac->load($page);
-    $views[] = 'articles/article.php';
-
-}
-
+$ac = new App\Article\Controller;
+$text = $ac->load($page);
+$views[] = 'articles/article.php';
 
 // load the requested page 
 // -------------------------------------------------------
