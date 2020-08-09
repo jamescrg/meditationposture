@@ -1,10 +1,10 @@
 #Getting Started
 
-If you are eager to get started and would prefer not to wade through the rest of this site, I would at least recommend reading the section regarding the <a href="back">lower back</a>. The central and most important principle of good posture is discussed in that section. Otherwise, here are the key points.
+If you are eager to get started and would prefer not to wade through the rest of this site, I would at least recommend reading the section regarding the <a href="back">back</a>. The central and most important principle of good posture is discussed in that section. Otherwise, here are the key points.
 
 <ol id="start">
 
-    <li>Get a zafu. You can buy one online. A zafu is simply a meditation cushion. They come in a wide variety of shapes and with different kinds of filing. You can spend hours researching zafus. Get one with buckwheat hull filling.</li>
+    <li>Get a zafu. You can buy one online. A zafu is simply a meditation cushion. They come in a wide variety of shapes and with different kinds of filing. Get one with buckwheat hull filling.</li>
 
     <div class="center-image"><img src="/images/zafu.png" class="page-standard img-responsive" style="width: 350px;"></div>
     <div class="caption">A typical round zafu</div>

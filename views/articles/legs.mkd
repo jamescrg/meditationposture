@@ -1,10 +1,10 @@
-#Arranging the Legs
+# Arranging the Legs
 
-The starting point to establish a good meditation posture is figuring out how to arrange your legs. The key principle here is that the knees should be below the hips. This supports the healthy alignment of the lower spine (see [Back](back)).
+The starting point to establishing a good meditation posture is figuring out how to arrange your legs. The key principle here is that the knees should be below the hips. This supports the healthy alignment of the lower spine (see [Back](back)).
 
-There are many ways to arrange the legs in a comfortable manner so that the knees are below the hips. How you position your legs will depend largely upon how much flexibility you have in your legs. Most people in modern, Western cultures are accustomed to sitting in chairs, and therefore have lost a lot of their natural flexibility. As a result, this page first presents some options for sitting in a chair before discussing more traditional meditation positions.
+There are many ways to arrange the legs in a comfortable manner so that the knees are below the hips. How you position your legs will depend largely upon how much flexibility you have. Most people in modern, Western cultures are accustomed to sitting in chairs, and therefore have lost a lot of their natural flexibility. As a result, it might be best to start by sitting in a chair.
 
-##Sitting in a Chair
+## Sitting in a Chair
 
 There is no denying that the chair is a valuable invention; its effect on human comfort and productivity has been immense. When considering how to get started with a meditation practice, the chair is a logical point of beginning for most people.
 
@@ -18,11 +18,11 @@ There are many ways to set up a chair for mediation without using the back rest.
 2. Place a zafu or a cushion behind your lower back.
 3. Fold up a towel to create a wedge under your tail bone to tilt your pelvis forward.
 
-We are generally advised to keep the legs at 90 degrees when sitting in a chair. This may be good advice for sitting for long periods of time for productive work while using the back rest. But it's not necessarily the optimal way to arrange the legs if you are not using the back rest. Instead, the thighs should be allowed to slope downward, so that the knees are below the hips. In order to make this possible, you may find it helpful to turn the thighs outward, and allow your feet to turn on their side. You may even want to cross your ankles. Gokhale talks about this extensively in her book (see "Sources") and provides some excellent illustrations.
+We are generally advised to keep the legs at 90 degrees when sitting in a chair. This may be good advice when sitting for long periods of time for productive work while using the back rest. But it's not necessarily the optimal way to arrange the legs if you are not using the back rest. Instead, the thighs should be allowed to slope downward, so that the knees are below the hips. In order to make this possible, you may find it helpful to turn the thighs outward, and allow your feet to turn on their side. You may even want to cross your ankles. Gokhale talks about this extensively in her book (see [Sources](sources)) and provides some excellent illustrations.
 
-##Seiza
+## Seiza
 
-Another way to sit is called seiza. The word "seiza" is Japanese, and refers to a traditional way of kneeling on the floor. This is not something we do very often in the West, and we tend to find it uncomfortable on the knees, but there are several ways to reduce and even eliminate that discomfort.
+Another way to sit is called seiza. The word "seiza" is Japanese; it refers to a traditional way of kneeling on the floor. This is not something we do very often in the West, and we tend to find it uncomfortable on the knees, but there are several ways to reduce and even eliminate that discomfort.
 
 If you have a zafu, one way to make seiza more comfortable is to place the zafu between your feet so that it can bear some of your weight. This arrangement takes a lot of pressure off the knees and feet.
 
@@ -36,13 +36,13 @@ Another alternative is to purchase a small wooden bench, called a seiza bench, t
 
 Seiza is an excellent position for beginning meditators, because it promotes healthy spinal alignment. When sitting in seiza, good alignment of the lower back occurs almost without effort. 
 
-##Cross-legged
+## Cross-legged
 
 This is the standard, familiar position for sitting on the ground. The benefit of sitting in the familiar cross-legged position is that it requires relatively little flexibility and places the weight of the body directly over the pelvis and hips.
 
 The key is to use a cushion to elevate the hips high enough to support the natural curvature of the lumbar spine. Most online mediation supply vendors have cushions of this type. The general rule is that the hips should be higher than the knees.
 
-Many meditation practitioners use a simple round cushion called a "zafu". The term "zafu" is of Japanese origin and simply means "seat". Zafus were traditionally stuffed with reedmace (cattail) fiber, although in more recent times, they have been filled with kapok or buckwheat hulls. The most common option in the west is buckwheat hulls, which provide support that is firm but malleable. I've tried both kapok and buckwheat hull zafus, and I tend to prefer buckwheat hulls, because they are easily adjustable; you can add or remove filling to make the cushion higher or lower. 
+Many meditation practitioners use a simple round cushion called a "zafu". The term "zafu" is of Japanese origin and simply means "seat". Zafus were traditionally stuffed with reedmace (cattail) fiber, although in more recent times, they have been filled with kapok or buckwheat hulls. The most common option in the West is buckwheat hulls, which provide support that is firm but malleable. I've tried both kapok and buckwheat hull zafus, and I tend to prefer buckwheat hulls, because they are easily adjustable; you can add or remove filling to make the cushion higher or lower. 
 
 <div class="center-image"><img src="/images/zafu.png" class="page-standard img-responsive" style="width: 350px;"></div>
 <div class="caption">A typical zafu</div>
@@ -52,12 +52,11 @@ In the cross-legged position, you will need a zafu that is high enough to get yo
 <div class="center-image"><img src="/images/zafu-towel.png" class="page-standard img-responsive" style="width: 350px;"></div>
 <div class="caption">A zafu with folded towel</div>
 
-
-##Burmese
+## Burmese
 
 The Burmese posture is similar to sitting cross-legged, except that the knees are positioned more outward so that the legs do not actually overlap one another. Instead, the feet are placed one in front of the other. The shins rest on the floor. 
 
-Burmese places a little more weight on the knees. A person sitting in Burmese still needs to elevate their hips to raise them above the feet and knees, which requires a little bit higher cushion. As a result, Burmese can feel a little wobbly, a little less stable than the various forms of lotus (see below).
+Burmese places a little more weight on the knees. A person sitting in Burmese still needs to elevate their hips to raise them above the feet and knees, which requires a somewhat higher cushion. As a result, Burmese can feel a little wobbly, a little less stable than the various forms of lotus (see below).
 
 The Burmese position has the advantage over cross-legged in that it brings shins down to the floor, providing some added stability. Some meditation teachers will tell students to have both knees on the floor, forming a tripod-like structure. This is useful advice, but it is actually the shins that rest on the floor. The front of the knee joint points toward the floor, but only if the cushion supporting the buttocks is high enough.
 
@@ -68,7 +67,7 @@ Burmese has the slight disadvantage of being a somewhat wide posture, especially
 
 I personally find it easy to over-arch the back in Burmese. Nevertheless, Burmese is a good, comfortable position, which does not demand quite as much hip flexibility as lotus. If you have trouble getting one (or both) of your knees all the way to the floor, you can place a cushion under the knee to take pressure off that leg. Most meditation supply retailers sell a variety of inexpensive support cushions for just this purpose.
 
-##Quarter Lotus
+## Quarter Lotus
 
 Similar to cross-legged, but instead of crossing the legs at the shins, one foot is placed on top of the opposite calf. Quarter lotus is a very comfortable position for people who have the requisite hip flexibility. I generally find that, when sitting on a lower cushion, I am more comfortable in quarter lotus than in Burmese. Many long-term practitioners favor quarter lotus as their mainstay sitting position. 
 
@@ -77,7 +76,7 @@ Similar to cross-legged, but instead of crossing the legs at the shins, one foot
 
 In fact, quarter lotus closely resembles the yoga posture called siddhasana or “perfect seat”. A classic fifteenth-century manual on hatha yoga, the Hatha Yoga Pradipika, poses the following question: “When siddhasana is mastered, of what use are the various other postures?” (Feuerstein 63) 
 
-##Half Lotus
+## Half Lotus
 
 Half lotus is similar to quarter lotus, but instead of placing the top foot on the opposite calf, the foot is placed on the thigh. Half lotus requires more hip flexibility, and also (depending on how it is done) may demand considerable flexibility from the feet. When I first started sitting in this position, I found that my top foot felt very “stretched out” after each practice session. This sensation went away after I developed some more flexibility in the front of my ankles. Now, my feet are quite comfortable in this position. It is helpful to alternate sides, sitting for one session with the right foot on top, then for the next session with the left on top.
 
@@ -86,14 +85,14 @@ Half lotus is similar to quarter lotus, but instead of placing the top foot on t
 
 <i>Most importantly</i>, when getting into half or full lotus, bring the heel in toward the groin and close the knee before lifting the foot onto the thigh. This helps to assures that the knee joint is not subject to lateral pressure while the hip rotates open. 
 
-Before attempting half lotus, you should make sure you have developed sufficient hip flexibility. Forcing your legs into a lotus posture before you have attained the requisite flexiblity can do significant damage to the knee. See the section on [exercises](exercises) elsewhere in this guide for a description of some of the stretches helpful to developing the flexibility necessary for sitting comfortably in the lotus postures.
+Before attempting half lotus, you should make sure you have developed sufficient hip flexibility. Forcing your legs into a lotus posture before you have attained the requisite flexiblity can do significant damage to the knee. The section on [exercises](exercises) provides some stretches helpful to developing the flexibility necessary for sitting comfortably in the lotus postures. However, I would also strongly recommend enrolling at a yoga studio, or at the very least, watching some videos on how to prepare for and enter the lotus position. It is very easy to injure yourself getting into this posture. 
 
-One can sit in a “low” half lotus, where the foot rests on the inner thigh closer to the hamstring, or a “high” half lotus where the top foot rests on the upper thigh, closer into the crease of the hip near the top of the quadricep. Generally, I find that the low half lotus allows my hips to feel more level, and is generally more comfortable. A high half lotus tends to extend the gluteal muscles under the hip of the top leg, which means I have less padding on that side of my backside. This can cause me to lean slightly to one side.
+One can sit in a “wide” half lotus, where the foot rests on the inner thigh closer to the hamstring, or a more advanced “narrow” half lotus where the top foot rests on the upper thigh, closer into the crease of the hip. Generally, I find that the wide version allows my hips to feel more level, and is generally more comfortable, whereas the narrow version tends to extend the gluteal muscles under the hip of the top leg, which means I have less padding on that side of my backside. This can cause me to lean slightly to one side.
 
 The bottom foot should be tucked back under the top thigh, right near the front edge of the cushion, in the space between the thigh and the floor. This allows both knees to descend as close as possible the floor, and allows you to sit on a slightly lower cushion while preserving the curvature in the lower back.
 
 
-##Full Lotus
+## Full Lotus
 
 Full lotus is perhaps the most difficult meditation position for lay practitioners to attain. Unless one is sitting consistently for substantial periods of time every day, and/or doing consistent yoga to open the hips, it is difficult to maintain the level of flexibility necessary for sitting in full lotus for an extended length of time. Even someone who can easily get into the full lotus position will be uncomfortable remaining there for ten or twenty minutes at a time, much less for hours, until they have had some time practicing in the position in order to become acclimated. A meditation teacher once told me, "I have no problem getting into full lotus. I just can't get out."
 
@@ -104,5 +103,5 @@ The advantage of full lotus is that it raises the feet above the thighs, which a
 
 ## The Bottom Line
 
-The important thing is to find a way of arranging the legs that works for the individual practitioner. Over time, it may be possible to develop the ability to sit comfortably in various forms of lotus. One should avoid the notion that there are more or less advanced sitting postures. The advanced sitting posture is the one that allows you to find comfort and minimize distraction. For someone who is new to the practice of meditation, trying to sit in full lotus is more likely to be a distraction and obstacle to the enjoyment of their practice, if not a cause of injury.
+The important thing is to find a way of arranging the legs that works for the individual practitioner. Over time, it may be possible to develop the ability to sit comfortably in various forms of lotus. One should avoid the notion that there are more or less advanced sitting postures. The advanced sitting posture is the one that allows you to find comfort and minimize distraction. For someone who is new to the practice of meditation, trying to sit in full lotus is more likely to be a distraction and obstacle to the enjoyment of their practice, or even a cause of injury.
 
