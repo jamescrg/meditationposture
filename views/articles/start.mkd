@@ -1,6 +1,6 @@
 #Getting Started
 
-If you are eager to get started and would prefer not to wade through the rest of this site, I would at least recommend reading the section regarding the <a href="back">back</a>. The central and most important principle of good posture is discussed in that section. Otherwise, here are the key points.
+If you are eager to get started and would prefer not to wade through the rest of this site, I would at least recommend reading the section regarding the <a href="/back">back</a>. The central and most important principle of good posture is discussed in that section. Otherwise, here are the key points.
 
 <ol id="start">
 

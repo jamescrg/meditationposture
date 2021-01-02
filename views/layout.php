@@ -40,7 +40,7 @@
         <div class="row">
 
             <div class="col-sm-12">
-				<div id="title"><a href="about" id="titleLink">meditationposture.net</a></div>
+				<div id="title"><a href="/" id="titleLink">meditationposture.net</a></div>
             </div>
 
         </div>

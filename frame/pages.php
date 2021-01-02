@@ -1,9 +1,19 @@
 <?php
 
 $pages = array(
-        'about', 'why', 'comfort', 'start', 'refresher', 'seating', 'legs',
-        'hands', 'back', 'chest', 'shoulders', 'head', 'exercises', 'problems', 'faq',
-        'sources', 'contact'
-        );
+    'about', 
+    'start', 
+    'why', 
+    'comfort', 
+    'legs',
+    'hands', 
+    'back', 
+    'chest', 
+    'shoulders', 
+    'head', 
+    'exercises', 
+    'sources', 
+    'contact',
+    );
 
 return $pages;
